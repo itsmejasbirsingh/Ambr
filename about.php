@@ -1,324 +1,16 @@
-<!doctype html>
-<html class="no-js" lang="zxx">
-<!-- Mirrored from html.themeholy.com/piller/demo/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Jul 2025 06:49:40 GMT -->
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Piller-html - Real Estate Home HTML Template - About Us</title>
-    <meta name="author" content="Piller">
-    <meta name="description" content="Piller-html - Real Estate Home HTML Template">
-    <meta name="keywords" content="Piller-html - Real Estate Home HTML Template">
-    <meta name="robots" content="INDEX,FOLLOW">
-    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
-    <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicons/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicons/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/favicons/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/favicons/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/favicons/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="assets/img/favicons/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicons/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicons/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicons/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicons/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png">
-    <link rel="manifest" href="assets/img/favicons/manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="assets/img/favicons/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-    <link rel="preconnect" href="https://fonts.googleapis.com/">
-    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/app.min.css">
-    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-</head>
-
-<body class="">
-    <div class="preloader"><button class="th-btn preloaderCls">Cancel Preloader</button>
-        <div id="preloader" class="preloader-inner">
-            <div class="txt-loading"><span data-text-preloader="P" class="letters-loading">P </span><span data-text-preloader="I" class="letters-loading">I </span><span data-text-preloader="L" class="letters-loading">L </span><span data-text-preloader="L" class="letters-loading">L </span><span data-text-preloader="E" class="letters-loading">E </span><span data-text-preloader="R" class="letters-loading">R</span></div>
-        </div>
-    </div>
-    <div class="color-scheme"><button class="switchIcon"><i class="fa-solid fa-palette"></i></button>
-        <h4 class="color-scheme-title"><i class="far fa-palette"></i> Color Switcher</h4>
-        <p class="color-scheme-text">Check template with your color</p>
-        <div class="color-switch-btns"><button data-color="#6240CF"><i class="fa-solid fa-droplet"></i></button> <button data-color="#068FFF"><i class="fa-solid fa-droplet"></i></button> <button data-color="#044DBC"><i class="fa-solid fa-droplet"></i></button> <button data-color="#FFAF00"><i class="fa-solid fa-droplet"></i></button> <button data-color="#F80000"><i class="fa-solid fa-droplet"></i></button> <button data-color="#231E7A"><i class="fa-solid fa-droplet"></i></button></div>
-        <p class="color-scheme-text">Or custom color..</p><input type="color" id="thcolorpicker" value="#068FFF">
-    </div>
-    <div class="sidemenu-wrapper sidemenu-cart d-none d-lg-block">
-        <div class="sidemenu-content"><button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
-            <div class="widget woocommerce widget_shopping_cart">
-                <h3 class="widget_title">Shopping cart</h3>
-                <div class="widget_shopping_cart_content">
-                    <ul class="woocommerce-mini-cart cart_list product_list_widget">
-                        <li class="woocommerce-mini-cart-item mini_cart_item"><a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a> <a href="#"><img src="assets/img/product/product_1_1.png" alt="Cart Image">Bosco Apple Fruit</a> <span class="quantity">1 × <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>940.00</span></span></li>
-                        <li class="woocommerce-mini-cart-item mini_cart_item"><a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a> <a href="#"><img src="assets/img/product/product_1_2.png" alt="Cart Image">Green Cauliflower</a> <span class="quantity">1 × <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>899.00</span></span></li>
-                        <li class="woocommerce-mini-cart-item mini_cart_item"><a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a> <a href="#"><img src="assets/img/product/product_1_3.png" alt="Cart Image">Mandarin orange</a> <span class="quantity">1 × <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>756.00</span></span></li>
-                        <li class="woocommerce-mini-cart-item mini_cart_item"><a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a> <a href="#"><img src="assets/img/product/product_1_4.png" alt="Cart Image">Shallot Red onion</a> <span class="quantity">1 × <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>723.00</span></span></li>
-                        <li class="woocommerce-mini-cart-item mini_cart_item"><a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a> <a href="#"><img src="assets/img/product/product_1_5.png" alt="Cart Image">Sour Red Cherry</a> <span class="quantity">1 × <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>1080.00</span></span></li>
-                    </ul>
-                    <p class="woocommerce-mini-cart__total total"><strong>Subtotal:</strong> <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>4398.00</span></p>
-                    <p class="woocommerce-mini-cart__buttons buttons"><a href="cart.html" class="th-btn wc-forward">View cart</a> <a href="checkout.html" class="th-btn checkout wc-forward">Checkout</a></p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="sidemenu-wrapper sidemenu-info d-none d-lg-block">
-        <div class="sidemenu-content"><button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
-            <div class="widget">
-                <div class="th-widget-about">
-                    <div class="about-logo"><a href="index.html"><img src="assets/img/logo.svg" alt="Piller-html"></a></div>
-                    <p class="about-text mb-4">Pillar is a luxury to the resilience, adaptability, Spacious modern villa living room with centrally placed swimming pool blending indooroutdoor.</p>
-                    <p class="footer-info"><i class="fas fa-phone"></i> <a href="tel:+00(123)456789012" class="info-box_link">+00 (123) 456 789 012</a></p>
-                    <p class="footer-info"><i class="fas fa-envelope"></i> <a href="mailto:infomail123@domain.com" class="info-box_link">infomail123@domain.com</a></p>
-                    <p class="footer-info"><i class="fas fa-location-dot"></i> <span>West 2nd lane, Inner circular road, New York City</span></p>
-                </div>
-            </div>
-            <div class="widget">
-                <h3 class="widget_title">Recent Posts</h3>
-                <div class="recent-post-wrap">
-                    <div class="recent-post">
-                        <div class="media-img"><a href="blog-details.html"><img src="assets/img/blog/featured-listing-sidebar-1-1.jpg" alt="Image"></a></div>
-                        <div class="media-body">
-                            <div class="recent-post-meta"><a href="blog.html"><i class="fa-solid fa-calendar-days"></i> 10 Dec, 2025</a></div>
-                            <h4 class="post-title"><a class="text-inherit" href="blog-details.html">The Ever-Evolving Land cape of</a></h4>
-                        </div>
-                    </div>
-                    <div class="recent-post">
-                        <div class="media-img"><a href="blog-details.html"><img src="assets/img/blog/featured-listing-sidebar-1-3.jpg" alt="Image"></a></div>
-                        <div class="media-body">
-                            <div class="recent-post-meta"><a href="blog.html"><i class="fa-solid fa-calendar-days"></i> 10 Dec, 2025</a></div>
-                            <h4 class="post-title"><a class="text-inherit" href="blog-details.html">The Ever-Evolving Land cape of</a></h4>
-                        </div>
-                    </div>
-                    <div class="recent-post">
-                        <div class="media-img"><a href="blog-details.html"><img src="assets/img/blog/featured-listing-sidebar-1-3.jpg" alt="Image"></a></div>
-                        <div class="media-body">
-                            <div class="recent-post-meta"><a href="blog.html"><i class="fa-solid fa-calendar-days"></i> 10 Dec, 2025</a></div>
-                            <h4 class="post-title"><a class="text-inherit" href="blog-details.html">The Ever-Evolving Land cape of</a></h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="widget newsletter-widget">
-                <h3 class="widget_title">Newsletter</h3>
-                <p class="footer-text">Sign up to receive the latest articles</p>
-                <form class="newsletter-form"><input class="form-control" type="email" placeholder="Enter Email" required=""> <button type="submit" class="th-btn bg-theme radius w-100 mb-3">Subscribe Now</button></form>
-            </div>
-        </div>
-    </div>
-    <div class="popup-search-box d-none d-lg-block"><button class="searchClose"><i class="fal fa-times"></i></button>
-        <form action="#"><input type="text" placeholder="What are you looking for?"> <button type="submit"><i class="fal fa-search"></i></button></form>
-    </div>
-    <div class="th-menu-wrapper">
-        <div class="th-menu-area text-center"><button class="th-menu-toggle"><i class="fal fa-times"></i></button>
-            <div class="mobile-logo"><a href="index.html"><img src="assets/img/logo.svg" alt="Piller-html"></a></div>
-            <div class="th-mobile-menu">
-                <ul>
-                    <li class="menu-item-has-children active"><a href="index.html">Home</a>
-                        <ul class="sub-menu th-submenu th-open" style="">
-                            <li><a href="index.html">Home Real Estate</a></li>
-                            <li><a href="home-2.html">Home Property</a></li>
-                            <li><a href="home-3.html">Home Map</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="about.html">About Us</a></li>
-                    <li class="menu-item-has-children"><a href="#">Property</a>
-                        <ul class="sub-menu">
-                            <li><a href="property.html">Properties</a></li>
-                            <li><a href="property-details.html">Properties Details</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children"><a href="#">Agencies</a>
-                        <ul class="sub-menu">
-                            <li><a href="agency.html">Agencies</a></li>
-                            <li><a href="agency-details.html">Agency Details</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children"><a href="#">Pages</a>
-                        <ul class="sub-menu">
-                            <li class="menu-item-has-children"><a href="#">Shop</a>
-                                <ul class="sub-menu">
-                                    <li><a href="shop.html">Shop</a></li>
-                                    <li><a href="shop-details.html">Shop Details</a></li>
-                                    <li><a href="cart.html">Cart Page</a></li>
-                                    <li><a href="checkout.html">Checkout</a></li>
-                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="team.html">Agents Page</a></li>
-                            <li><a href="team-details.html">Agent Details</a></li>
-                            <li><a href="gallery.html">Gallery Page</a></li>
-                            <li><a href="service.html">Service Page</a></li>
-                            <li><a href="service-right-sidebar.html">Service with sidebar</a></li>
-                            <li><a href="service-details.html">Service Details</a></li>
-                            <li><a href="pricing.html">Pricing Plan</a></li>
-                            <li><a href="neighborhood-guide.html">Neighborhood Guide</a></li>
-                            <li><a href="faq.html">Faq Page</a></li>
-                            <li><a href="error.html">Error Page</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children"><a href="#">Blog</a>
-                        <ul class="sub-menu">
-                            <li><a href="blog.html">Blog Grid</a></li>
-                            <li><a href="blog-grid-right-sidebar.html">Blog Grid With Right Sidebar</a></li>
-                            <li><a href="blog-grid-left-sidebar.html">Blog Grid With Left Sidebar</a></li>
-                            <li><a href="blog-details.html">Blog Details</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="contact.html">Contact Us</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <header class="th-header header-default">
-        <div class="header-top">
-            <div class="container">
-                <div class="row justify-content-center justify-content-lg-between align-items-center gy-2">
-                    <div class="col-auto d-none d-lg-block">
-                        <div class="header-links">
-                            <ul>
-                                <li><i class="fa-solid fa-envelope"></i> <a href="mailto:infomailexample@mail.com">infomailexample@mail.com</a></li>
-                                <li><i class="fa-solid fa-phone"></i> <a href="tel:+0012345678900">+00 (123) 456 789 00</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-auto">
-                        <div class="header-links">
-                            <ul>
-                                <li>
-                                    <div class="th-social"><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a> <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.whatsapp.com/"><i class="fab fa-whatsapp"></i></a></div>
-                                </li>
-                                <li class="lang-wrapper">
-                                    <div class="lang-menu">
-                                        <div class="icon"><img src="assets/img/icon/english.png" alt="icon"></div><select class="form-select nice-select">
-                                            <option selected="">English</option>
-                                            <option>Spanish</option>
-                                            <option>Hindi</option>
-                                        </select>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="sticky-wrapper">
-            <div class="menu-area">
-                <div class="container">
-                    <div class="row align-items-center justify-content-between">
-                        <div class="col-auto">
-                            <div class="header-logo"><a href="index.html"><img src="assets/img/logo.svg" alt="Piller-html"></a></div>
-                        </div>
-                        <div class="col-auto">
-                            <nav class="main-menu d-none d-lg-inline-block">
-                                <ul>
-                                    <li class="menu-item-has-children active"><a href="index.html">Home</a>
-                                        <ul class="mega-menu mega-menu-content allow-natural-scroll">
-                                            <li>
-                                                <div class="container">
-                                                    <div class="row gy-4">
-                                                        <div class="col-lg-4">
-                                                            <div class="mega-menu-box">
-                                                                <div class="mega-menu-img"><img src="assets/img/pages/index.jpg" alt="Home One">
-                                                                    <div class="btn-wrap"><a href="index.html" class="th-btn radius">View Demo</a></div>
-                                                                </div>
-                                                                <h3 class="mega-menu-title"><a href="index.html"><span class="text-theme">01.</span> Home Real Estate</a></h3>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4">
-                                                            <div class="mega-menu-box">
-                                                                <div class="mega-menu-img"><img src="assets/img/pages/home-2.jpg" alt="Home Two">
-                                                                    <div class="btn-wrap"><a href="home-2.html" class="th-btn radius">View Demo</a></div>
-                                                                </div>
-                                                                <h3 class="mega-menu-title"><a href="home-2.html"><span class="text-theme">02.</span> Home Property</a></h3>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4">
-                                                            <div class="mega-menu-box">
-                                                                <div class="mega-menu-img"><img src="assets/img/pages/home-3.jpg" alt="Home Three">
-                                                                    <div class="btn-wrap"><a href="home-3.html" class="th-btn radius">View Demo</a></div>
-                                                                </div>
-                                                                <h3 class="mega-menu-title"><a href="home-3.html"><span class="text-theme">03.</span> Home Map</a></h3>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li class="menu-item-has-children"><a href="#">Property</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="property.html">Properties</a></li>
-                                            <li><a href="property-details.html">Properties Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children"><a href="#">Agencies</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="agency.html">Agencies</a></li>
-                                            <li><a href="agency-details.html">Agency Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children"><a href="#">Pages</a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item-has-children"><a href="#">Shop</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="shop.html">Shop</a></li>
-                                                    <li><a href="shop-details.html">Shop Details</a></li>
-                                                    <li><a href="cart.html">Cart Page</a></li>
-                                                    <li><a href="checkout.html">Checkout</a></li>
-                                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="team.html">Agents Page</a></li>
-                                            <li><a href="team-details.html">Agent Details</a></li>
-                                            <li><a href="gallery.html">Gallery Page</a></li>
-                                            <li><a href="service.html">Service Page</a></li>
-                                            <li><a href="service-right-sidebar.html">Service with sidebar</a></li>
-                                            <li><a href="service-details.html">Service Details</a></li>
-                                            <li><a href="pricing.html">Pricing Plan</a></li>
-                                            <li><a href="neighborhood-guide.html">Neighborhood Guide</a></li>
-                                            <li><a href="faq.html">Faq Page</a></li>
-                                            <li><a href="error.html">Error Page</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children"><a href="#">Blog</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="blog.html">Blog Grid</a></li>
-                                            <li><a href="blog-grid-right-sidebar.html">Blog Grid With Right Sidebar</a></li>
-                                            <li><a href="blog-grid-left-sidebar.html">Blog Grid With Left Sidebar</a></li>
-                                            <li><a href="blog-details.html">Blog Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="contact.html">Contact Us</a></li>
-                                </ul>
-                            </nav><button type="button" class="th-menu-toggle d-block d-lg-none"><i class="far fa-bars"></i></button>
-                        </div>
-                        <div class="col-auto d-none d-xl-block">
-                            <div class="header-button"><a href="contact.html" class="th-btn bg-black radius"><i class="fa-regular fa-house-chimney me-2"></i> Add Listing </a><button type="button" class="sidemenu-bar sideMenuInfo"><span></span> <span></span> <span></span></button></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <div class="breadcumb-wrapper" data-bg-src="assets/img/bg/breadcrumb-bg.jpg">
+<?php include('partials/header.php'); ?>
+    <!-- <div class="breadcumb-wrapper" data-bg-src="assets/img/bg/breadcrumb-bg.jpg">
         <div class="container">
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">About Us</h1>
                 <ul class="breadcumb-menu">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>About Us</li>
                 </ul>
             </div>
         </div>
-    </div>
-    <div class="about-1-wrapper space overflow-hidden" id="about-sec">
+    </div> -->
+    <div class="about-1-wrapper  overflow-hidden" id="about-sec" style="margin-top: 16px">
         <div class="shape-mockup" data-bottom="0" data-left="0"><img src="assets/img/icon/about-2-shape.png" alt="img"></div>
         <div class="shape-mockup jump d-none d-lg-block" data-bottom="11%" data-left="5%"><img src="assets/img/icon/about-inner-shape.png" alt="img"></div>
         <div class="container">
@@ -328,7 +20,7 @@
                         <div class="about-logo-wrap-2">
                             <div class="logo-icon-wrap">
                                 <div class="logo-icon"><img src="assets/img/icon/logo-circle-icon.png" alt="img"></div>
-                                <div class="logo-icon-wrap__text"><span class="logo-animation">PILLAR REAL ESTATE HOME * REAL ESTATE</span></div>
+                                <div class="logo-icon-wrap__text"><span class="logo-animation">AMBR REAL ESTATE HOME * REAL ESTATE</span></div>
                             </div>
                         </div>
                         <div class="about-left">
@@ -387,9 +79,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-lg-12">
-                            <div class="about-bottom-wrap fadeinup wow"><a href="about.html" class="th-btn bg-black pill">More About Us</a>
+                            <div class="about-bottom-wrap fadeinup wow"><a href="about.php" class="th-btn bg-black pill">More About Us</a>
                                 <div class="about1-call-wrapper">
                                     <div class="icon"><i class="fa-regular fa-phone"></i></div>
                                     <div class="content">
@@ -398,7 +90,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -409,10 +101,10 @@
                 <div class="col-lg-6">
                     <div class="title-area text-left mb-2">
                         <p class="sub-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span> Signature Features</p>
-                        <h2 class="sec-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">See how Pillar can Help</h2>
+                        <h2 class="sec-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">See how AMBR can Help</h2>
                     </div>
                 </div>
-                <div class="col-lg-auto"><a href="property.html" class="th-btn style3 radius fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s">View All Services</a></div>
+                <div class="col-lg-auto"><a href="property.php" class="th-btn style3 radius fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s">View All Services</a></div>
             </div>
             <div class="row gy-30 justify-content-center">
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 fadeinup wow">
@@ -420,10 +112,10 @@
                         <h4 class="count">01</h4>
                         <div class="why-card-1__icon"><img src="assets/img/icon/why-icon-1-1.svg" alt="image"></div>
                         <div class="why-card-1__content">
-                            <h3 class="box-title"><a href="service.html">Easty To Rent</a></h3>
+                            <h3 class="box-title"><a href="service.php">Easty To Rent</a></h3>
                             <p class="box-text">Velox surgo clarus confido carus video lumen virtus spes decerno..</p>
                         </div>
-                        <div class="why-card-1__bottom"><a class="th-btn style3 radius bg-white" href="property-details.html">Find a Home</a></div>
+                        <div class="why-card-1__bottom"><a class="th-btn style3 radius bg-white" href="property-details.php">Find a Home</a></div>
                     </div>
                 </div>
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 fadeinup wow">
@@ -431,10 +123,10 @@
                         <h4 class="count">02</h4>
                         <div class="why-card-1__icon"><img src="assets/img/icon/why-icon-1-2.svg" alt="image"></div>
                         <div class="why-card-1__content">
-                            <h3 class="box-title"><a href="service.html">Carefully Crafted</a></h3>
+                            <h3 class="box-title"><a href="service.php">Carefully Crafted</a></h3>
                             <p class="box-text">Altus cedo tantillus video patrocinor valeo vestrum credo virtus.</p>
                         </div>
-                        <div class="why-card-1__bottom"><a class="th-btn style3 radius bg-white" href="property-details.html">Sell a Home</a></div>
+                        <div class="why-card-1__bottom"><a class="th-btn style3 radius bg-white" href="property-details.php">Sell a Home</a></div>
                     </div>
                 </div>
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 fadeinup wow">
@@ -442,10 +134,10 @@
                         <h4 class="count">03</h4>
                         <div class="why-card-1__icon"><img src="assets/img/icon/why-icon-1-3.svg" alt="image"></div>
                         <div class="why-card-1__content">
-                            <h3 class="box-title"><a href="service.html">Eco-Friendly & Green</a></h3>
+                            <h3 class="box-title"><a href="service.php">Eco-Friendly & Green</a></h3>
                             <p class="box-text">Technology is revolutionizing the other legal Technology the legal</p>
                         </div>
-                        <div class="why-card-1__bottom"><a class="th-btn style3 radius bg-white" href="property-details.html">Rent a Home</a></div>
+                        <div class="why-card-1__bottom"><a class="th-btn style3 radius bg-white" href="property-details.php">Rent a Home</a></div>
                     </div>
                 </div>
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 fadeinup wow">
@@ -453,10 +145,10 @@
                         <h4 class="count">04</h4>
                         <div class="why-card-1__icon"><img src="assets/img/icon/why-icon-1-4.svg" alt="image"></div>
                         <div class="why-card-1__content">
-                            <h3 class="box-title"><a href="service.html">Lavish Greenary</a></h3>
+                            <h3 class="box-title"><a href="service.php">Lavish Greenary</a></h3>
                             <p class="box-text">Confido carus video lumen Velox surgo ok virtus spes decerno.</p>
                         </div>
-                        <div class="why-card-1__bottom"><a class="th-btn style3 radius bg-white" href="property-details.html">Find a Home</a></div>
+                        <div class="why-card-1__bottom"><a class="th-btn style3 radius bg-white" href="property-details.php">Find a Home</a></div>
                     </div>
                 </div>
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 fadeinup wow">
@@ -464,10 +156,10 @@
                         <h4 class="count">05</h4>
                         <div class="why-card-1__icon"><img src="assets/img/icon/why-icon-1-1.svg" alt="image"></div>
                         <div class="why-card-1__content">
-                            <h3 class="box-title"><a href="service.html">In-built Wardrobe</a></h3>
+                            <h3 class="box-title"><a href="service.php">In-built Wardrobe</a></h3>
                             <p class="box-text">Velox surgo clarus home of other the cedo virtus spes decerno.</p>
                         </div>
-                        <div class="why-card-1__bottom"><a class="th-btn style3 radius bg-white" href="property-details.html">Sell a Home</a></div>
+                        <div class="why-card-1__bottom"><a class="th-btn style3 radius bg-white" href="property-details.php">Sell a Home</a></div>
                     </div>
                 </div>
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 fadeinup wow">
@@ -475,10 +167,10 @@
                         <h4 class="count">06</h4>
                         <div class="why-card-1__icon"><img src="assets/img/icon/why-icon-1-2.svg" alt="image"></div>
                         <div class="why-card-1__content">
-                            <h3 class="box-title"><a href="service.html">Planned Construction</a></h3>
+                            <h3 class="box-title"><a href="service.php">Planned Construction</a></h3>
                             <p class="box-text">Altus cedo tantillus video patrocinor subseco vestrum credo virtus.</p>
                         </div>
-                        <div class="why-card-1__bottom"><a class="th-btn style3 radius bg-white" href="property-details.html">Rent a Home</a></div>
+                        <div class="why-card-1__bottom"><a class="th-btn style3 radius bg-white" href="property-details.php">Rent a Home</a></div>
                     </div>
                 </div>
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 fadeinup wow">
@@ -486,10 +178,10 @@
                         <h4 class="count">07</h4>
                         <div class="why-card-1__icon"><img src="assets/img/icon/why-icon-1-3.svg" alt="image"></div>
                         <div class="why-card-1__content">
-                            <h3 class="box-title"><a href="service.html">Family & Community</a></h3>
+                            <h3 class="box-title"><a href="service.php">Family & Community</a></h3>
                             <p class="box-text">Technology is revolutionizing the legal tantillus Technology the legal</p>
                         </div>
-                        <div class="why-card-1__bottom"><a class="th-btn style3 radius bg-white" href="property-details.html">Find a Home</a></div>
+                        <div class="why-card-1__bottom"><a class="th-btn style3 radius bg-white" href="property-details.php">Find a Home</a></div>
                     </div>
                 </div>
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 fadeinup wow">
@@ -497,10 +189,10 @@
                         <h4 class="count">08</h4>
                         <div class="why-card-1__icon"><img src="assets/img/icon/why-icon-1-4.svg" alt="image"></div>
                         <div class="why-card-1__content">
-                            <h3 class="box-title"><a href="service.html">Tech & Security</a></h3>
+                            <h3 class="box-title"><a href="service.php">Tech & Security</a></h3>
                             <p class="box-text">Confido carus video lumen Velox clarus tantillus virtus spes decerno.</p>
                         </div>
-                        <div class="why-card-1__bottom"><a class="th-btn style3 radius bg-white" href="property-details.html">Rent a Home</a></div>
+                        <div class="why-card-1__bottom"><a class="th-btn style3 radius bg-white" href="property-details.php">Rent a Home</a></div>
                     </div>
                 </div>
             </div>
@@ -513,7 +205,7 @@
                 <div class="col-xl-7">
                     <div class="title-area text-center mt-1">
                         <p class="sub-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span>Team Members</p>
-                        <h2 class="sec-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">Meet Our Pillar Agents</h2>
+                        <h2 class="sec-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">Meet Our AMBR Agents</h2>
                     </div>
                 </div>
             </div>
@@ -525,7 +217,7 @@
                                 <div class="team-img"><img src="assets/img/team/team_2_1.png" alt="Team"></div>
                                 <div class="team-content">
                                     <div class="left-contet">
-                                        <h3 class="box-title"><a href="team-details.html">Vickie Wisozk</a></h3><span class="team-desig">Real Estate Manager</span>
+                                        <h3 class="box-title"><a href="team-details.php">Vickie Wisozk</a></h3><span class="team-desig">Real Estate Manager</span>
                                     </div>
                                     <div class="team-social">
                                         <div class="th-social"><a target="_blank" href="https://instagram.com/"><i class="fab fa-linkedin-in"></i></a> <a target="_blank" href="https://linkedin.com/"><i class="fa-solid fa-envelope"></i></a></div>
@@ -538,7 +230,7 @@
                                 <div class="team-img"><img src="assets/img/team/team_2_2.png" alt="Team"></div>
                                 <div class="team-content">
                                     <div class="left-contet">
-                                        <h3 class="box-title"><a href="team-details.html">Renee Strosin</a></h3><span class="team-desig">Property Developer</span>
+                                        <h3 class="box-title"><a href="team-details.php">Renee Strosin</a></h3><span class="team-desig">Property Developer</span>
                                     </div>
                                     <div class="team-social">
                                         <div class="th-social"><a target="_blank" href="https://instagram.com/"><i class="fab fa-linkedin-in"></i></a> <a target="_blank" href="https://linkedin.com/"><i class="fa-solid fa-envelope"></i></a></div>
@@ -551,7 +243,7 @@
                                 <div class="team-img"><img src="assets/img/team/team_2_3.png" alt="Team"></div>
                                 <div class="team-content">
                                     <div class="left-contet">
-                                        <h3 class="box-title"><a href="team-details.html">Zulia Era</a></h3><span class="team-desig">Listing Coordinator</span>
+                                        <h3 class="box-title"><a href="team-details.php">Zulia Era</a></h3><span class="team-desig">Listing Coordinator</span>
                                     </div>
                                     <div class="team-social">
                                         <div class="th-social"><a target="_blank" href="https://instagram.com/"><i class="fab fa-linkedin-in"></i></a> <a target="_blank" href="https://linkedin.com/"><i class="fa-solid fa-envelope"></i></a></div>
@@ -564,7 +256,7 @@
                                 <div class="team-img"><img src="assets/img/team/team_2_4.png" alt="Team"></div>
                                 <div class="team-content">
                                     <div class="left-contet">
-                                        <h3 class="box-title"><a href="team-details.html">Bernice Roberts</a></h3><span class="team-desig">Leasing Consultant</span>
+                                        <h3 class="box-title"><a href="team-details.php">Bernice Roberts</a></h3><span class="team-desig">Leasing Consultant</span>
                                     </div>
                                     <div class="team-social">
                                         <div class="th-social"><a target="_blank" href="https://instagram.com/"><i class="fab fa-linkedin-in"></i></a> <a target="_blank" href="https://linkedin.com/"><i class="fa-solid fa-envelope"></i></a></div>
@@ -577,7 +269,7 @@
                                 <div class="team-img"><img src="assets/img/team/team_2_5.png" alt="Team"></div>
                                 <div class="team-content">
                                     <div class="left-contet">
-                                        <h3 class="box-title"><a href="team-details.html">Martha Leffler</a></h3><span class="team-desig">Real Estate Manager</span>
+                                        <h3 class="box-title"><a href="team-details.php">Martha Leffler</a></h3><span class="team-desig">Real Estate Manager</span>
                                     </div>
                                     <div class="team-social">
                                         <div class="th-social"><a target="_blank" href="https://instagram.com/"><i class="fab fa-linkedin-in"></i></a> <a target="_blank" href="https://linkedin.com/"><i class="fa-solid fa-envelope"></i></a></div>
@@ -590,7 +282,7 @@
                                 <div class="team-img"><img src="assets/img/team/team_2_6.png" alt="Team"></div>
                                 <div class="team-content">
                                     <div class="left-contet">
-                                        <h3 class="box-title"><a href="team-details.html">Thomas Kirlin</a></h3><span class="team-desig">Listing Coordinator</span>
+                                        <h3 class="box-title"><a href="team-details.php">Thomas Kirlin</a></h3><span class="team-desig">Listing Coordinator</span>
                                     </div>
                                     <div class="team-social">
                                         <div class="th-social"><a target="_blank" href="https://instagram.com/"><i class="fab fa-linkedin-in"></i></a> <a target="_blank" href="https://linkedin.com/"><i class="fa-solid fa-envelope"></i></a></div>
@@ -603,7 +295,7 @@
             </div>
             <div class="row gy-40 justify-content-center">
                 <div class="col-xl-8">
-                    <p class="chat-text-wrap text-center pe-xl-5 ps-xl-5 mb-0">Explore Property agents are here to help with all your buying, renting and selling goals. Find the home of your dreams with an expert you can trust. <a class="text-theme" href="contact.html"> Let’s chat</a></p>
+                    <p class="chat-text-wrap text-center pe-xl-5 ps-xl-5 mb-0">Explore Property agents are here to help with all your buying, renting and selling goals. Find the home of your dreams with an expert you can trust. <a class="text-theme" href="contact.php"> Let’s chat</a></p>
                 </div>
             </div>
         </div>
@@ -653,7 +345,7 @@
                 <div class="col-xl-7">
                     <div class="title-area text-center">
                         <p class="sub-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span>Testimonials</p>
-                        <h2 class="sec-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">What Clients Say About Pillar</h2>
+                        <h2 class="sec-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">What Clients Say About AMBR</h2>
                     </div>
                 </div>
             </div>
@@ -781,7 +473,7 @@
                 <div class="row gy-4 align-items-center">
                     <div class="col-lg-5 col-xl-5 col-xxl-6">
                         <div class="download-3-left">
-                            <div class="map-icon-box"><a href="property.html"><img src="assets/img/download/download-3-map.png" alt="img"></a></div>
+                            <div class="map-icon-box"><a href="property.php"><img src="assets/img/download/download-3-map.png" alt="img"></a></div>
                             <div class="content-box"><img src="assets/img/download/download-3-icon.png" alt="img">
                                 <h4 class="box-title">Find Fast Our Latest Properties</h4>
                             </div>
@@ -815,166 +507,35 @@
         <div class="marquee-wrapper">
             <div class="marquee">
                 <div class="marquee-group">
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
                 </div>
                 <div class="marquee-group">
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-                    <div class="text"><a href="service.html"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
+                    <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
                 </div>
             </div>
         </div>
     </div>
-    <footer class="footer-wrapper footer-default">
-        <div class="widget-area">
-            <div class="container">
-                <div class="footer-all-widget-wrapper">
-                    <div class="footer-all-widget-item">
-                        <div class="widget footer-widget">
-                            <div class="th-widget-about">
-                                <div class="about-logo"><a href="index.html"><img src="assets/img/logo-white.svg" alt="Piller-html"></a></div>
-                                <p class="about-text">Pillar is a luxury to the resilience, adaptability, Spacious modern villa living room with centrally placed swimming pool blending indooroutdoor.</p>
-                                <div class="footer-info-wrap">
-                                    <div class="footer-info"><i class="fas fa-phone"></i>
-                                        <p class="info-box_link"><a href="tel:+00(123)456789012">+00 (123) 456 789 012</a></p>
-                                    </div>
-                                    <div class="footer-info"><i class="fas fa-envelope"></i>
-                                        <p class="info-box_link"><a href="mailto:infomail123@domain.com">infomail123@domain.com</a></p>
-                                    </div>
-                                    <div class="footer-info"><i class="fas fa-location-dot"></i>
-                                        <p class="info-box_link"><span>West 2nd lane, Inner circular road, New York City</span></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="footer-all-widget-item">
-                        <div class="footer-right-wrap">
-                            <div class="footer-item-wrap">
-                                <div class="footer-item">
-                                    <div class="widget widget_nav_menu footer-widget">
-                                        <h3 class="widget_title">Featured Houses</h3>
-                                        <div class="menu-all-pages-container">
-                                            <ul class="menu">
-                                                <li><a href="service.html">#Villa</a></li>
-                                                <li><a href="service.html">#Commercial</a></li>
-                                                <li><a href="service.html">#Farm Houses</a></li>
-                                                <li><a href="service.html">#Apartments</a></li>
-                                                <li><a href="service.html">#Apartments</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="footer-item">
-                                    <div class="widget widget_nav_menu footer-widget">
-                                        <h3 class="widget_title">Quick Links</h3>
-                                        <div class="menu-all-pages-container">
-                                            <ul class="menu">
-                                                <li><a href="service.html">Strategy Services</a></li>
-                                                <li><a href="service.html">Management</a></li>
-                                                <li><a href="service.html">Privacy & Policy</a></li>
-                                                <li><a href="service.html">Sitemap</a></li>
-                                                <li><a href="service.html">Term & Conditions</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="footer-item">
-                                    <div class="widget widget_nav_menu footer-widget">
-                                        <h3 class="widget_title">Support</h3>
-                                        <div class="menu-all-pages-container">
-                                            <ul class="menu">
-                                                <li><a href="contact.html">Help Center</a></li>
-                                                <li><a href="service.html">FAQs</a></li>
-                                                <li><a href="contact.html">Contact Us</a></li>
-                                                <li><a href="contact.html">Ticket Support</a></li>
-                                                <li><a href="contact.html">Live Chat</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="footer-item">
-                                    <div class="widget widget_banner footer-widget">
-                                        <h3 class="widget_title">Pillar Location</h3>
-                                        <div class="widget-map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.7310056272386!2d89.2286059153658!3d24.00527418490799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fe9b97badc6151%3A0x30b048c9fb2129bc!2sAngfuztheme!5e0!3m2!1sen!2sbd!4v1658812932163!5m2!1sen!2sbd"></iframe></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="footer-right-bottom-wrap">
-                                <div class="footer-right-bottom-item">
-                                    <div class="footer-right-bottom-item__thumb help"><img src="assets/img/icon/footer-default-icon-1-1.png" alt="img"></div>
-                                    <div class="footer-right-bottom-item__content">
-                                        <h4 class="box-title"><a href="contact.html">Need to Home buy or sell?</a></h4>
-                                    </div>
-                                </div>
-                                <div class="footer-right-bottom-item scan">
-                                    <div class="footer-right-bottom-item__thumb"><img src="assets/img/icon/footer-default-icon-1-2.png" alt="img"></div>
-                                    <div class="footer-right-bottom-item__content">
-                                        <p>Download on the</p>
-                                        <h4 class="box-title"><a href="https://www.apple.com/app-store/">App Store</a></h4>
-                                    </div>
-                                    <div class="footer-right-bottom-item__right"><img src="assets/img/icon/footer-default-icon-1-2-scan.png" alt="img"></div>
-                                </div>
-                                <div class="footer-right-bottom-item scan">
-                                    <div class="footer-right-bottom-item__thumb"><img src="assets/img/icon/footer-default-icon-1-3.png" alt="img"></div>
-                                    <div class="footer-right-bottom-item__content">
-                                        <p>GET IT ON</p>
-                                        <h4 class="box-title"><a href="https://play.google.com/store/apps">Google Play</a></h4>
-                                    </div>
-                                    <div class="footer-right-bottom-item__right"><img src="assets/img/icon/footer-default-icon-1-2-scan.png" alt="img"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="copyright-wrap">
-            <div class="footer-bottom-top-shape animation-infinite" data-bg-src="assets/img/icon/footer-bottom-top-shape.png"></div>
-            <div class="container">
-                <div class="row gy-3 justify-content-lg-between justify-content-center align-items-center">
-                    <div class="col-lg-7">
-                        <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2025 <a href="index.html">Piller</a>. All Rights Reserved.</p>
-                    </div>
-                    <div class="col-auto">
-                        <div class="footer-default-copy-right">
-                            <p>Social Media:</p>
-                            <div class="th-social"><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a> <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.whatsapp.com/"><i class="fab fa-whatsapp"></i></a></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <div class="scroll-top"><svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;"></path>
-        </svg></div>
-    <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
-    <script src="assets/js/app.min.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/nice-select.min.js"></script>
-    <script src="assets/js/main.js"></script>
-</body>
-<!-- Mirrored from html.themeholy.com/piller/demo/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Jul 2025 06:49:41 GMT -->
-
-</html>
+    
+    <?php include('partials/footer.php'); ?>

@@ -1,14 +1,13 @@
 <!doctype html>
 <html class="no-js home-2" lang="en">
-<!-- Mirrored from html.themeholy.com/piller/demo/home-2.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Jul 2025 06:48:06 GMT -->
 
 <head>
    <meta charset="utf-8">
    <meta http-equiv="x-ua-compatible" content="ie=edge">
    <title>Ambr Homes</title>
-   <meta name="author" content="Piller">
-   <meta name="description" content="Piller-html - Real Estate Home HTML Template">
-   <meta name="keywords" content="Piller-html - Real Estate Home HTML Template">
+   <meta name="author" content="Jasbir Singh">
+   <meta name="description" content="Ambr - Real Estate Website">
+   <meta name="keywords" content="Construction website">
    <meta name="robots" content="INDEX,FOLLOW">
    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
    <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicons/apple-icon-57x57.png">
@@ -20,10 +19,10 @@
    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicons/apple-icon-144x144.png">
    <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicons/apple-icon-152x152.png">
    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-icon-180x180.png">
-   <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicons/android-icon-192x192.png">
-   <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png">
-   <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicons/favicon-96x96.png">
-   <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png">
+   <link rel="icon" type="image/png" sizes="192x192" href="./assets/favicon.png">
+   <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon.png">
+   <link rel="icon" type="image/png" sizes="96x96" href="./assets/favicon.png">
+   <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon.png">
    <link rel="manifest" href="assets/img/favicons/manifest.json">
    <meta name="msapplication-TileColor" content="#ffffff">
    <meta name="msapplication-TileImage" content="assets/img/favicons/ms-icon-144x144.png">
@@ -41,10 +40,10 @@
       <!-- <button class="th-btn preloaderCls">Cancel Preloader</button> -->
       <div id="preloader" class="preloader-inner">
          <div class="txt-loading"><span data-text-preloader="A" class="letters-loading">A </span><span data-text-preloader="M" class="letters-loading">M </span><span data-text-preloader="B" class="letters-loading">B </span><span data-text-preloader="R" class="letters-loading">R </span></div>
-         <div class="txt-loading" style="margin-left: -28px"><span data-text-preloader="H" class="letters-loading">H </span><span data-text-preloader="O" class="letters-loading">O </span><span data-text-preloader="M" class="letters-loading">M </span><span data-text-preloader="E" class="letters-loading">E </span><span data-text-preloader="S" class="letters-loading">S </span></div>
+         <div class="txt-loading" style="margin-left: -20px"><span data-text-preloader="H" class="letters-loading">H </span><span data-text-preloader="O" class="letters-loading">O </span><span data-text-preloader="M" class="letters-loading">M </span><span data-text-preloader="E" class="letters-loading">E </span><span data-text-preloader="S" class="letters-loading">S </span></div>
       </div>
    </div>
- <?php // include('partials/color-switcher.php'); ?>
+ <?php include('partials/color-switcher.php'); ?>
    <!-- <div class="sidemenu-wrapper sidemenu-cart d-none d-lg-block">
       <div class="sidemenu-content">
          <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
@@ -72,11 +71,11 @@
    <div class="th-menu-wrapper">
       <div class="th-menu-area text-center">
          <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
-         <div class="mobile-logo"><a href="index.php"><img src="assets/img/logo.svg" alt="Piller-html"></a></div>
+         <div class="mobile-logo"><a href="index.php"><img src="assets/logo.png" alt="ambr-html"></a></div>
          <div class="th-mobile-menu">
             <ul>
                <li class="active">
-                  <a href="">Home</a>
+                  <a href="./">Home</a>
                   <!-- <ul class="sub-menu th-submenu th-open">
                      <li><a href="index.php">Home Real Estate</a></li>
                      <li><a href="home-2.php">Home Property</a></li>
@@ -84,21 +83,18 @@
                   </ul> -->
                </li>
                <li><a href="about.php">About Us</a></li>
-               <li class="menu-item-has-children">
-                  <a href="#">Property</a>
-                  <ul class="sub-menu">
-                     <li><a href="property.php">Properties</a></li>
-                     <li><a href="property-details.php">Properties Details</a></li>
-                  </ul>
+               <li>
+                  <a href="property.php">Properties</a>
+                  
                </li>
-               <li class="menu-item-has-children">
+               <!-- <li class="menu-item-has-children">
                   <a href="#">Agencies</a>
                   <ul class="sub-menu">
                      <li><a href="agency.php">Agencies</a></li>
                      <li><a href="agency-details.php">Agency Details</a></li>
                   </ul>
-               </li>
-               <li class="menu-item-has-children">
+               </li> -->
+               <!-- <li class="menu-item-has-children">
                   <a href="#">Pages</a>
                   <ul class="sub-menu">
                      <li class="menu-item-has-children">
@@ -122,8 +118,8 @@
                      <li><a href="faq.php">Faq Page</a></li>
                      <li><a href="error.php">Error Page</a></li>
                   </ul>
-               </li>
-               <li class="menu-item-has-children">
+               </li> -->
+               <!-- <li class="menu-item-has-children">
                   <a href="#">Blog</a>
                   <ul class="sub-menu">
                      <li><a href="blog.php">Blog Grid</a></li>
@@ -131,7 +127,7 @@
                      <li><a href="blog-grid-left-sidebar.php">Blog Grid With Left Sidebar</a></li>
                      <li><a href="blog-details.php">Blog Details</a></li>
                   </ul>
-               </li>
+               </li> -->
                <li><a href="contact.php">Contact Us</a></li>
             </ul>
          </div>
@@ -176,13 +172,13 @@
             <div class="container th-container3">
                <div class="row align-items-center justify-content-between">
                   <div class="col-auto">
-                     <div class="header-logo"><a href="index.php"><img style="height: 70px;" src="./assets/logo.jpg" alt="Piller-html"></a></div>
+                     <div class="header-logo"><a href="./"><img style="height: 80px;" src="./assets/logo.png" alt="ambr-html"></a></div>
                   </div>
                   <div class="col-auto">
                      <nav class="main-menu d-none d-lg-inline-block">
                         <ul>
                            <li class="active">
-                              <a href="">Home</a>
+                              <a href="./">Home</a>
                               <!-- <ul class="mega-menu mega-menu-content allow-natural-scroll">
                                  <li>
                                     <div class="container">
@@ -220,21 +216,18 @@
                               </ul> -->
                            </li>
                            <li><a href="about.php">About Us</a></li>
-                           <li class="menu-item-has-children">
-                              <a href="#">Property</a>
-                              <ul class="sub-menu">
-                                 <li><a href="property.php">Properties</a></li>
-                                 <li><a href="property-details.php">Properties Details</a></li>
-                              </ul>
+                           <li>
+                              <a href="property.php">Properties</a>
+                             
                            </li>
-                           <li class="menu-item-has-children">
+                           <!-- <li class="menu-item-has-children">
                               <a href="#">Agencies</a>
                               <ul class="sub-menu">
                                  <li><a href="agency.php">Agencies</a></li>
                                  <li><a href="agency-details.php">Agency Details</a></li>
                               </ul>
-                           </li>
-                           <li class="menu-item-has-children">
+                           </li> -->
+                           <!-- <li class="menu-item-has-children">
                               <a href="#">Pages</a>
                               <ul class="sub-menu">
                                  <li class="menu-item-has-children">
@@ -258,8 +251,8 @@
                                  <li><a href="faq.php">Faq Page</a></li>
                                  <li><a href="error.php">Error Page</a></li>
                               </ul>
-                           </li>
-                           <li class="menu-item-has-children">
+                           </li> -->
+                           <!-- <li class="menu-item-has-children">
                               <a href="#">Blog</a>
                               <ul class="sub-menu">
                                  <li><a href="blog.php">Blog Grid</a></li>
@@ -267,15 +260,15 @@
                                  <li><a href="blog-grid-left-sidebar.php">Blog Grid With Left Sidebar</a></li>
                                  <li><a href="blog-details.php">Blog Details</a></li>
                               </ul>
-                           </li>
+                           </li> -->
                            <li><a href="contact.php">Contact Us</a></li>
                         </ul>
                      </nav>
                      <button type="button" class="th-menu-toggle d-block d-lg-none"><i class="far fa-bars"></i></button>
                   </div>
-                  <div class="col-auto d-none d-xl-block">
+                  <!-- <div class="col-auto d-none d-xl-block">
                      <div class="header-button"><a href="contact.php" class="th-btn bg-black pill"><i class="fa-regular fa-house-chimney me-2"></i> Add Listing </a><button type="button" class="sidemenu-bar sideMenuInfo pill"><span></span> <span></span> <span></span></button></div>
-                  </div>
+                  </div> -->
                </div>
             </div>
          </div>

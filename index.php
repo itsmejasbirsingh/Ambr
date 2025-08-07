@@ -1,13 +1,51 @@
 <?php include('partials/header.php'); ?>
-   <div class="th-hero-wrapper hero-2" id="hero">
-      <div class="slider-2-scroll-down scroll-down"><a href="#about-sec" class="scroll-wrap"><span></span> </a><span class="scroll-text">Scroll</span></div>
-      <!-- <div class="hero-2-social">
+<div class="th-hero-wrapper hero-2" id="hero">
+   <!-- <div class="slider-2-scroll-down scroll-down"><a href="#about-sec" class="scroll-wrap"><span></span> </a><span class="scroll-text">Scroll</span></div> -->
+
+
+   <div class="marquee-section overflow-hidden overflow-hidden bg-smoke">
+      <div class="marquee-bg-wrap"></div>
+      <div class="marquee-wrapper">
+         <div class="marquee">
+            <div class="marquee-group">
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Vihaan Villa</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Ambrosia Luxury Homes!</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Garden Galleria</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Vihaan Villa</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Ambrosia Luxury Homes!</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Garden Galleria</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Vihaan Villa</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Ambrosia Luxury Homes!</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Garden Galleria</a></div>
+            </div>
+            <!-- <div class="marquee-group">
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
+            </div> -->
+         </div>
+      </div>
+   </div>
+
+
+
+
+   <!-- <div class="hero-2-social">
          <div class="th-social"><a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a> <a target="_blank" href="https://twitter.com/"><i class="fab fa-twitter"></i></a> <a target="_blank" href="https://instagram.com/"><i class="fab fa-instagram"></i></a> <a target="_blank" href="https://linkedin.com/"><i class="fab fa-linkedin-in"></i></a></div>
       </div> -->
-      <div class="th-container22">
+   <!-- <div class="th-container22">
          <div class="hero-inner hero-style2" data-mask-src="assets/img/hero/hero-2-bg-mask.png">
             <video class="hero-video" id="video" src="assets/img/hero/hero-2-video.mp4" loop="" muted="" autoplay=""></video>
-            <!-- <div class="row justify-content-center gy-50 gx-40 align-items-center">
+             <div class="row justify-content-center gy-50 gx-40 align-items-center">
                <div class="col-xxl-8 col-xl-9 col-lg-11">
                   <div class="hero-2-content text-center">
                      <div class="hero-img-shape-2 fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s">
@@ -70,11 +108,11 @@
                      </div>
                   </div>
                </div>
-            </div> -->
+            </div> 
          </div>
-      </div>
-   </div>
-   <!-- <div class="advance-search-wrapper stye-2">
+      </div> -->
+</div>
+<!-- <div class="advance-search-wrapper stye-2">
       <div class="form-group">
          <label for="location">Location</label>
          <select name="location" id="location" class="form-select nice-select">
@@ -103,7 +141,7 @@
          </select>
       </div>
    </div> -->
-   <section id="category-sec" class="category-sec-1 position-relative space bg-smoke">
+<!-- <section id="category-sec" class="category-sec-1 position-relative space bg-smoke">
       <div class="shape-mockup moving d-none d-md-block" data-top="12%" data-left="7%"><img src="assets/img/shape/category-1-left.png" alt="img"></div>
       <div class="shape-mockup jump d-none d-md-block" data-top="14%" data-right="2%"><img src="assets/img/shape/category-1-right.png" alt="img"></div>
       <div class="container">
@@ -167,8 +205,8 @@
             </div>
          </div>
       </div>
-   </section>
-   <div class="about-1-wrapper space overflow-hidden" id="about-sec">
+   </section> -->
+<!-- <div class="about-1-wrapper space overflow-hidden" id="about-sec">
       <div class="shape-mockup" data-bottom="0" data-left="0"><img src="assets/img/icon/about-2-shape.png" alt="img"></div>
       <div class="shape-mockup spin d-none d-lg-block" data-bottom="11%" data-left="5%"><img src="assets/img/icon/circle-start.png" alt="img"></div>
       <div class="container">
@@ -305,638 +343,638 @@
             </div>
          </div>
       </div>
-   </div>
-   <section class="popular-sec-1 space">
-      <div class="container">
-         <div class="row justify-content-lg-between justify-content-center align-items-center mb-35">
-            <div class="col-lg-6">
-               <div class="title-area text-left mb-0">
-                  <p class="sub-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span> Latest Properties</p>
-                  <h2 class="sec-title mb-4 fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">Featured Properties</h2>
-               </div>
-            </div>
-            <div class="col-lg-auto">
-               <div class="filter-menu style-2 indicator-active filter-menu-active mt-0 mb-0 fadeinup wow" data-wow-duration="1.3s" data-wow-delay="0.1s"><button data-filter="*" class="th-btn tab-btn active" type="button">Upcomming Projects</button> <button data-filter=".cat1" class="th-btn tab-btn" type="button">On Going Projects</button> <button data-filter=".cat2" class="th-btn tab-btn" type="button">Completed Projects</button> </div>
+   </div> -->
+<section class="popular-sec-1 space">
+   <div class="container">
+      <div class="row justify-content-lg-between justify-content-center align-items-center mb-35">
+         <div class="col-lg-6">
+            <div class="title-area text-left mb-0">
+               <p class="sub-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span> Latest Properties</p>
+               <h2 class="sec-title mb-4 fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">Featured Properties</h2>
             </div>
          </div>
-         <div class="row gy-30 justify-content-center filter-active">
-            <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 filter-item cat3 cat1">
-               <div class="popular-list-1">
-                  <div class="thumb-wrapper">
-                     <div class="th-slider" data-slider-options='{"loop":false, "autoplay": false,"autoHeight": true, "effect":"fade"}'>
-                        <div class="swiper-wrapper">
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-1.jpg"><img src="assets/img/popular/popular-1-1.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-2.jpg"><img src="assets/img/popular/popular-1-2.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-1.jpg"><img src="assets/img/popular/popular-1-1.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-2.jpg"><img src="assets/img/popular/popular-1-2.jpg" alt="Image"></a></div>
-                        </div>
-                        <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
-                     </div>
-                     <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
-                     <div class="actions-style-2-wrapper">
-                        <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
-                     </div>
-                     <div class="popular-badge">
-                        <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
-                        <p>For Sale</p>
-                     </div>
-                  </div>
-                  <div class="property-content">
-                     <div class="media-body">
-                        <h3 class="box-title"><a href="property-details.php">Charming Beach House</a></h3>
-                        <div class="box-text">
-                           <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
-                           39581 Rohan Estates, New York
-                        </div>
-                     </div>
-                     <ul class="property-featured">
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
-                           Bed 4
-                        </li>
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
-                           Bath 2
-                        </li>
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
-                           1500 sqft
-                        </li>
-                     </ul>
-                     <div class="property-bottom">
-                        <h6 class="box-title">$179,800.00</h6>
-                        <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 filter-item cat3 cat2 cat1">
-               <div class="popular-list-1">
-                  <div class="thumb-wrapper">
-                     <div class="th-slider" data-slider-options='{"loop":false, "autoplay": false,"autoHeight": true, "effect":"fade"}'>
-                        <div class="swiper-wrapper">
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-2.jpg"><img src="assets/img/popular/popular-1-2.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-3.jpg"><img src="assets/img/popular/popular-1-3.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-2.jpg"><img src="assets/img/popular/popular-1-2.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-3.jpg"><img src="assets/img/popular/popular-1-3.jpg" alt="Image"></a></div>
-                        </div>
-                        <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
-                     </div>
-                     <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
-                     <div class="actions-style-2-wrapper">
-                        <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
-                     </div>
-                     <div class="popular-badge">
-                        <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
-                        <p>For Sale</p>
-                     </div>
-                  </div>
-                  <div class="property-content">
-                     <div class="media-body">
-                        <h3 class="box-title"><a href="property-details.php">Contemporary Loft</a></h3>
-                        <div class="box-text">
-                           <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
-                           39581 Rohan Estates, New York
-                        </div>
-                     </div>
-                     <ul class="property-featured">
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
-                           Bed 4
-                        </li>
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
-                           Bath 2
-                        </li>
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
-                           1500 sqft
-                        </li>
-                     </ul>
-                     <div class="property-bottom">
-                        <h6 class="box-title">$335,800.00</h6>
-                        <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 filter-item cat4 cat3 cat2">
-               <div class="popular-list-1">
-                  <div class="thumb-wrapper">
-                     <div class="th-slider" data-slider-options='{"loop":false, "autoplay": false,"autoHeight": true, "effect":"fade"}'>
-                        <div class="swiper-wrapper">
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-3.jpg"><img src="assets/img/popular/popular-1-3.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-4.jpg"><img src="assets/img/popular/popular-1-4.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-3.jpg"><img src="assets/img/popular/popular-1-3.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-4.jpg"><img src="assets/img/popular/popular-1-4.jpg" alt="Image"></a></div>
-                        </div>
-                        <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
-                     </div>
-                     <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
-                     <div class="actions-style-2-wrapper">
-                        <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
-                     </div>
-                     <div class="popular-badge">
-                        <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
-                        <p>For Sale</p>
-                     </div>
-                  </div>
-                  <div class="property-content">
-                     <div class="media-body">
-                        <h3 class="box-title"><a href="property-details.php">Cozy Cottage</a></h3>
-                        <div class="box-text">
-                           <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
-                           39581 Rohan Estates, New York
-                        </div>
-                     </div>
-                     <ul class="property-featured">
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
-                           Bed 4
-                        </li>
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
-                           Bath 2
-                        </li>
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
-                           1500 sqft
-                        </li>
-                     </ul>
-                     <div class="property-bottom">
-                        <h6 class="box-title">$250,800.00</h6>
-                        <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 filter-item cat1">
-               <div class="popular-list-1">
-                  <div class="thumb-wrapper">
-                     <div class="th-slider" data-slider-options='{"loop":false, "autoplay": false,"autoHeight": true, "effect":"fade"}'>
-                        <div class="swiper-wrapper">
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-4.jpg"><img src="assets/img/popular/popular-1-4.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-5.jpg"><img src="assets/img/popular/popular-1-5.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-4.jpg"><img src="assets/img/popular/popular-1-4.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-5.jpg"><img src="assets/img/popular/popular-1-5.jpg" alt="Image"></a></div>
-                        </div>
-                        <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
-                     </div>
-                     <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
-                     <div class="actions-style-2-wrapper">
-                        <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
-                     </div>
-                     <div class="popular-badge">
-                        <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
-                        <p>For Sale</p>
-                     </div>
-                  </div>
-                  <div class="property-content">
-                     <div class="media-body">
-                        <h3 class="box-title"><a href="property-details.php">Modern Beach House</a></h3>
-                        <div class="box-text">
-                           <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
-                           39581 Rohan Estates, New York
-                        </div>
-                     </div>
-                     <ul class="property-featured">
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
-                           Bed 4
-                        </li>
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
-                           Bath 2
-                        </li>
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
-                           1500 sqft
-                        </li>
-                     </ul>
-                     <div class="property-bottom">
-                        <h6 class="box-title">$189,800.00</h6>
-                        <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 filter-item cat3 cat4">
-               <div class="popular-list-1">
-                  <div class="thumb-wrapper">
-                     <div class="th-slider" data-slider-options='{"loop":false, "autoplay": false,"autoHeight": true, "effect":"fade"}'>
-                        <div class="swiper-wrapper">
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-5.jpg"><img src="assets/img/popular/popular-1-5.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-6.jpg"><img src="assets/img/popular/popular-1-6.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-5.jpg"><img src="assets/img/popular/popular-1-5.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-6.jpg"><img src="assets/img/popular/popular-1-6.jpg" alt="Image"></a></div>
-                        </div>
-                        <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
-                     </div>
-                     <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
-                     <div class="actions-style-2-wrapper">
-                        <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
-                     </div>
-                     <div class="popular-badge">
-                        <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
-                        <p>For Sale</p>
-                     </div>
-                  </div>
-                  <div class="property-content">
-                     <div class="media-body">
-                        <h3 class="box-title"><a href="property-details.php">Cozy Mountain Cabin</a></h3>
-                        <div class="box-text">
-                           <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
-                           39581 Rohan Estates, New York
-                        </div>
-                     </div>
-                     <ul class="property-featured">
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
-                           Bed 4
-                        </li>
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
-                           Bath 2
-                        </li>
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
-                           1500 sqft
-                        </li>
-                     </ul>
-                     <div class="property-bottom">
-                        <h6 class="box-title">$179,800.00</h6>
-                        <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 filter-item cat2 cat1">
-               <div class="popular-list-1">
-                  <div class="thumb-wrapper">
-                     <div class="th-slider" data-slider-options='{"loop":false, "autoplay": false,"autoHeight": true, "effect":"fade"}'>
-                        <div class="swiper-wrapper">
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-6.jpg"><img src="assets/img/popular/popular-1-6.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-7.jpg"><img src="assets/img/popular/popular-1-7.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-6.jpg"><img src="assets/img/popular/popular-1-6.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-7.jpg"><img src="assets/img/popular/popular-1-7.jpg" alt="Image"></a></div>
-                        </div>
-                        <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
-                     </div>
-                     <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
-                     <div class="actions-style-2-wrapper">
-                        <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
-                     </div>
-                     <div class="popular-badge">
-                        <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
-                        <p>For Sale</p>
-                     </div>
-                  </div>
-                  <div class="property-content">
-                     <div class="media-body">
-                        <h3 class="box-title"><a href="property-details.php">Modern Apartment</a></h3>
-                        <div class="box-text">
-                           <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
-                           39581 Rohan Estates, New York
-                        </div>
-                     </div>
-                     <ul class="property-featured">
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
-                           Bed 4
-                        </li>
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
-                           Bath 2
-                        </li>
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
-                           1500 sqft
-                        </li>
-                     </ul>
-                     <div class="property-bottom">
-                        <h6 class="box-title">$132,800.00</h6>
-                        <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 filter-item cat4">
-               <div class="popular-list-1">
-                  <div class="thumb-wrapper">
-                     <div class="th-slider" data-slider-options='{"loop":false, "autoplay": false,"autoHeight": true, "effect":"fade"}'>
-                        <div class="swiper-wrapper">
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-7.jpg"><img src="assets/img/popular/popular-1-7.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-8.jpg"><img src="assets/img/popular/popular-1-8.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-7.jpg"><img src="assets/img/popular/popular-1-7.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-8.jpg"><img src="assets/img/popular/popular-1-8.jpg" alt="Image"></a></div>
-                        </div>
-                        <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
-                     </div>
-                     <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
-                     <div class="actions-style-2-wrapper">
-                        <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
-                     </div>
-                     <div class="popular-badge">
-                        <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
-                        <p>For Sale</p>
-                     </div>
-                  </div>
-                  <div class="property-content">
-                     <div class="media-body">
-                        <h3 class="box-title"><a href="property-details.php">Seaside Villa 5078</a></h3>
-                        <div class="box-text">
-                           <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
-                           39581 Rohan Estates, New York
-                        </div>
-                     </div>
-                     <ul class="property-featured">
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
-                           Bed 4
-                        </li>
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
-                           Bath 2
-                        </li>
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
-                           1500 sqft
-                        </li>
-                     </ul>
-                     <div class="property-bottom">
-                        <h6 class="box-title">$245,800.00</h6>
-                        <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 filter-item cat2 cat4">
-               <div class="popular-list-1">
-                  <div class="thumb-wrapper">
-                     <div class="th-slider" data-slider-options='{"loop":false, "autoplay": false,"autoHeight": true, "effect":"fade"}'>
-                        <div class="swiper-wrapper">
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-8.jpg"><img src="assets/img/popular/popular-1-8.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-9.jpg"><img src="assets/img/popular/popular-1-9.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-8.jpg"><img src="assets/img/popular/popular-1-8.jpg" alt="Image"></a></div>
-                           <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-9.jpg"><img src="assets/img/popular/popular-1-9.jpg" alt="Image"></a></div>
-                        </div>
-                        <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
-                     </div>
-                     <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
-                     <div class="actions-style-2-wrapper">
-                        <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
-                     </div>
-                     <div class="popular-badge">
-                        <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
-                        <p>For Sale</p>
-                     </div>
-                  </div>
-                  <div class="property-content">
-                     <div class="media-body">
-                        <h3 class="box-title"><a href="property-details.php">Ranch Style Home</a></h3>
-                        <div class="box-text">
-                           <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
-                           39581 Rohan Estates, New York
-                        </div>
-                     </div>
-                     <ul class="property-featured">
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
-                           Bed 4
-                        </li>
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
-                           Bath 2
-                        </li>
-                        <li>
-                           <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
-                           1500 sqft
-                        </li>
-                     </ul>
-                     <div class="property-bottom">
-                        <h6 class="box-title">$415,800.00</h6>
-                        <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
-                     </div>
-                  </div>
-               </div>
-            </div>
+         <div class="col-lg-auto">
+            <div class="filter-menu style-2 indicator-active filter-menu-active mt-0 mb-0 fadeinup wow" data-wow-duration="1.3s" data-wow-delay="0.1s"><button data-filter="*" class="th-btn tab-btn active" type="button">Upcomming Projects</button> <button data-filter=".cat1" class="th-btn tab-btn" type="button">On Going Projects</button> <button data-filter=".cat2" class="th-btn tab-btn" type="button">Completed Projects</button> </div>
          </div>
       </div>
-   </section>
-   <div class="gallery-sec-2 overflow-hidden bg-smoke space overflow-hidden">
-      <div class="shape-mockup moving d-none d-md-block" style="top: 12%; left: 7%;"><img src="assets/img/shape/gallery-sec-1-left.png" alt="img"></div>
-      <div class="container">
-         <div class="row justify-content-center">
-            <div class="col-xl-7">
-               <div class="title-area text-center">
-                  <p class="sub-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span>Explore Cities</p>
-                  <h2 class="sec-title mb-2 fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">Resale Properties</h2>
-                  <p class="box-text fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.5s">Find your dream apartment with our listing</p>
+      <div class="row gy-30 justify-content-center filter-active">
+         <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 filter-item cat3 cat1">
+            <div class="popular-list-1">
+               <div class="thumb-wrapper">
+                  <div class="th-slider" data-slider-options='{"loop":false, "autoplay": false,"autoHeight": true, "effect":"fade"}'>
+                     <div class="swiper-wrapper">
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-1.jpg"><img src="assets/img/popular/popular-1-1.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-2.jpg"><img src="assets/img/popular/popular-1-2.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-1.jpg"><img src="assets/img/popular/popular-1-1.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-2.jpg"><img src="assets/img/popular/popular-1-2.jpg" alt="Image"></a></div>
+                     </div>
+                     <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
+                  </div>
+                  <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
+                  <div class="actions-style-2-wrapper">
+                     <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
+                  </div>
+                  <div class="popular-badge">
+                     <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
+                     <p>For Sale</p>
+                  </div>
+               </div>
+               <div class="property-content">
+                  <div class="media-body">
+                     <h3 class="box-title"><a href="property-details.php">Charming Beach House</a></h3>
+                     <div class="box-text">
+                        <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
+                        39581 Rohan Estates, New York
+                     </div>
+                  </div>
+                  <ul class="property-featured">
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
+                        Bed 4
+                     </li>
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
+                        Bath 2
+                     </li>
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
+                        1500 sqft
+                     </li>
+                  </ul>
+                  <div class="property-bottom">
+                     <h6 class="box-title">$179,800.00</h6>
+                     <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
+                  </div>
                </div>
             </div>
          </div>
-         <div class="gallery-2-slider-wrap">
-            <div class="slider-area">
-               <div class="swiper th-slider has-shadow gallery-1" id="gallerySlider1" data-slider-options='{"centeredSlides":false,"loop":true,"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"3"},"1200":{"slidesPerView":"3"},"1400":{"slidesPerView":"4"}}}'>
-                  <div class="swiper-wrapper">
-                     <div class="swiper-slide">
-                        <div class="gallery-card style-2">
-                           <div class="gallery-img">
-                              <img src="assets/img/gallery/gallery-2-1.jpg" alt="gallery image">
-                              <div class="gallery-content">
-                                 <div class="gallery-content-wrapper">
-                                    <div class="left-content">
-                                       <p class="box-text">250 Properties</p>
-                                       <h2 class="box-title"><a href="property-details.php">London, United Kngdom</a></h2>
-                                    </div>
-                                    <div class="link"><a href="property-details.php"><i class="far fa-arrow-right"></i></a></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
+         <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 filter-item cat3 cat2 cat1">
+            <div class="popular-list-1">
+               <div class="thumb-wrapper">
+                  <div class="th-slider" data-slider-options='{"loop":false, "autoplay": false,"autoHeight": true, "effect":"fade"}'>
+                     <div class="swiper-wrapper">
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-2.jpg"><img src="assets/img/popular/popular-1-2.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-3.jpg"><img src="assets/img/popular/popular-1-3.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-2.jpg"><img src="assets/img/popular/popular-1-2.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-3.jpg"><img src="assets/img/popular/popular-1-3.jpg" alt="Image"></a></div>
                      </div>
-                     <div class="swiper-slide">
-                        <div class="gallery-card style-2">
-                           <div class="gallery-img">
-                              <img src="assets/img/gallery/gallery-2-2.jpg" alt="gallery image">
-                              <div class="gallery-content">
-                                 <div class="gallery-content-wrapper">
-                                    <div class="left-content">
-                                       <p class="box-text">135 Properties</p>
-                                       <h2 class="box-title"><a href="property-details.php">New Jersey, New York</a></h2>
-                                    </div>
-                                    <div class="link"><a href="property-details.php"><i class="far fa-arrow-right"></i></a></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="swiper-slide">
-                        <div class="gallery-card style-2">
-                           <div class="gallery-img">
-                              <img src="assets/img/gallery/gallery-2-3.jpg" alt="gallery image">
-                              <div class="gallery-content">
-                                 <div class="gallery-content-wrapper">
-                                    <div class="left-content">
-                                       <p class="box-text">225 Properties</p>
-                                       <h2 class="box-title"><a href="property-details.php">Cape Town, South Africa</a></h2>
-                                    </div>
-                                    <div class="link"><a href="property-details.php"><i class="far fa-arrow-right"></i></a></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="swiper-slide">
-                        <div class="gallery-card style-2">
-                           <div class="gallery-img">
-                              <img src="assets/img/gallery/gallery-2-4.jpg" alt="gallery image">
-                              <div class="gallery-content">
-                                 <div class="gallery-content-wrapper">
-                                    <div class="left-content">
-                                       <p class="box-text">143 Properties</p>
-                                       <h2 class="box-title"><a href="property-details.php">Los Angeles, New York</a></h2>
-                                    </div>
-                                    <div class="link"><a href="property-details.php"><i class="far fa-arrow-right"></i></a></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="swiper-slide">
-                        <div class="gallery-card style-2">
-                           <div class="gallery-img">
-                              <img src="assets/img/gallery/gallery-2-5.jpg" alt="gallery image">
-                              <div class="gallery-content">
-                                 <div class="gallery-content-wrapper">
-                                    <div class="left-content">
-                                       <p class="box-text">321 Properties</p>
-                                       <h2 class="box-title"><a href="property-details.php">Seoul, South Korea</a></h2>
-                                    </div>
-                                    <div class="link"><a href="property-details.php"><i class="far fa-arrow-right"></i></a></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="swiper-slide">
-                        <div class="gallery-card style-2">
-                           <div class="gallery-img">
-                              <img src="assets/img/gallery/gallery-2-6.jpg" alt="gallery image">
-                              <div class="gallery-content">
-                                 <div class="gallery-content-wrapper">
-                                    <div class="left-content">
-                                       <p class="box-text">212 Properties</p>
-                                       <h2 class="box-title"><a href="property-details.php">Seoul, South Korea</a></h2>
-                                    </div>
-                                    <div class="link"><a href="property-details.php"><i class="far fa-arrow-right"></i></a></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="swiper-slide">
-                        <div class="gallery-card style-2">
-                           <div class="gallery-img">
-                              <img src="assets/img/gallery/gallery-2-7.jpg" alt="gallery image">
-                              <div class="gallery-content">
-                                 <div class="gallery-content-wrapper">
-                                    <div class="left-content">
-                                       <p class="box-text">432 Properties</p>
-                                       <h2 class="box-title"><a href="property-details.php">London, United Kngdom</a></h2>
-                                    </div>
-                                    <div class="link"><a href="property-details.php"><i class="far fa-arrow-right"></i></a></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="swiper-slide">
-                        <div class="gallery-card style-2">
-                           <div class="gallery-img">
-                              <img src="assets/img/gallery/gallery-2-8.jpg" alt="gallery image">
-                              <div class="gallery-content">
-                                 <div class="gallery-content-wrapper">
-                                    <div class="left-content">
-                                       <p class="box-text">211 Properties</p>
-                                       <h2 class="box-title"><a href="property-details.php">New Jersey, New York</a></h2>
-                                    </div>
-                                    <div class="link"><a href="property-details.php"><i class="far fa-arrow-right"></i></a></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
+                     <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
+                  </div>
+                  <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
+                  <div class="actions-style-2-wrapper">
+                     <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
+                  </div>
+                  <div class="popular-badge">
+                     <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
+                     <p>For Sale</p>
+                  </div>
+               </div>
+               <div class="property-content">
+                  <div class="media-body">
+                     <h3 class="box-title"><a href="property-details.php">Contemporary Loft</a></h3>
+                     <div class="box-text">
+                        <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
+                        39581 Rohan Estates, New York
                      </div>
                   </div>
-                  <button data-slider-prev="#gallerySlider1" class="slider-arrow slider-prev style2"><i class="far fa-arrow-left"></i></button> <button data-slider-next="#gallerySlider1" class="slider-arrow slider-next style2"><i class="far fa-arrow-right"></i></button>
+                  <ul class="property-featured">
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
+                        Bed 4
+                     </li>
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
+                        Bath 2
+                     </li>
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
+                        1500 sqft
+                     </li>
+                  </ul>
+                  <div class="property-bottom">
+                     <h6 class="box-title">$335,800.00</h6>
+                     <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 filter-item cat4 cat3 cat2">
+            <div class="popular-list-1">
+               <div class="thumb-wrapper">
+                  <div class="th-slider" data-slider-options='{"loop":false, "autoplay": false,"autoHeight": true, "effect":"fade"}'>
+                     <div class="swiper-wrapper">
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-3.jpg"><img src="assets/img/popular/popular-1-3.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-4.jpg"><img src="assets/img/popular/popular-1-4.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-3.jpg"><img src="assets/img/popular/popular-1-3.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-4.jpg"><img src="assets/img/popular/popular-1-4.jpg" alt="Image"></a></div>
+                     </div>
+                     <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
+                  </div>
+                  <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
+                  <div class="actions-style-2-wrapper">
+                     <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
+                  </div>
+                  <div class="popular-badge">
+                     <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
+                     <p>For Sale</p>
+                  </div>
+               </div>
+               <div class="property-content">
+                  <div class="media-body">
+                     <h3 class="box-title"><a href="property-details.php">Cozy Cottage</a></h3>
+                     <div class="box-text">
+                        <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
+                        39581 Rohan Estates, New York
+                     </div>
+                  </div>
+                  <ul class="property-featured">
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
+                        Bed 4
+                     </li>
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
+                        Bath 2
+                     </li>
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
+                        1500 sqft
+                     </li>
+                  </ul>
+                  <div class="property-bottom">
+                     <h6 class="box-title">$250,800.00</h6>
+                     <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 filter-item cat1">
+            <div class="popular-list-1">
+               <div class="thumb-wrapper">
+                  <div class="th-slider" data-slider-options='{"loop":false, "autoplay": false,"autoHeight": true, "effect":"fade"}'>
+                     <div class="swiper-wrapper">
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-4.jpg"><img src="assets/img/popular/popular-1-4.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-5.jpg"><img src="assets/img/popular/popular-1-5.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-4.jpg"><img src="assets/img/popular/popular-1-4.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-5.jpg"><img src="assets/img/popular/popular-1-5.jpg" alt="Image"></a></div>
+                     </div>
+                     <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
+                  </div>
+                  <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
+                  <div class="actions-style-2-wrapper">
+                     <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
+                  </div>
+                  <div class="popular-badge">
+                     <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
+                     <p>For Sale</p>
+                  </div>
+               </div>
+               <div class="property-content">
+                  <div class="media-body">
+                     <h3 class="box-title"><a href="property-details.php">Modern Beach House</a></h3>
+                     <div class="box-text">
+                        <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
+                        39581 Rohan Estates, New York
+                     </div>
+                  </div>
+                  <ul class="property-featured">
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
+                        Bed 4
+                     </li>
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
+                        Bath 2
+                     </li>
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
+                        1500 sqft
+                     </li>
+                  </ul>
+                  <div class="property-bottom">
+                     <h6 class="box-title">$189,800.00</h6>
+                     <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 filter-item cat3 cat4">
+            <div class="popular-list-1">
+               <div class="thumb-wrapper">
+                  <div class="th-slider" data-slider-options='{"loop":false, "autoplay": false,"autoHeight": true, "effect":"fade"}'>
+                     <div class="swiper-wrapper">
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-5.jpg"><img src="assets/img/popular/popular-1-5.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-6.jpg"><img src="assets/img/popular/popular-1-6.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-5.jpg"><img src="assets/img/popular/popular-1-5.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-6.jpg"><img src="assets/img/popular/popular-1-6.jpg" alt="Image"></a></div>
+                     </div>
+                     <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
+                  </div>
+                  <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
+                  <div class="actions-style-2-wrapper">
+                     <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
+                  </div>
+                  <div class="popular-badge">
+                     <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
+                     <p>For Sale</p>
+                  </div>
+               </div>
+               <div class="property-content">
+                  <div class="media-body">
+                     <h3 class="box-title"><a href="property-details.php">Cozy Mountain Cabin</a></h3>
+                     <div class="box-text">
+                        <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
+                        39581 Rohan Estates, New York
+                     </div>
+                  </div>
+                  <ul class="property-featured">
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
+                        Bed 4
+                     </li>
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
+                        Bath 2
+                     </li>
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
+                        1500 sqft
+                     </li>
+                  </ul>
+                  <div class="property-bottom">
+                     <h6 class="box-title">$179,800.00</h6>
+                     <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 filter-item cat2 cat1">
+            <div class="popular-list-1">
+               <div class="thumb-wrapper">
+                  <div class="th-slider" data-slider-options='{"loop":false, "autoplay": false,"autoHeight": true, "effect":"fade"}'>
+                     <div class="swiper-wrapper">
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-6.jpg"><img src="assets/img/popular/popular-1-6.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-7.jpg"><img src="assets/img/popular/popular-1-7.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-6.jpg"><img src="assets/img/popular/popular-1-6.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-7.jpg"><img src="assets/img/popular/popular-1-7.jpg" alt="Image"></a></div>
+                     </div>
+                     <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
+                  </div>
+                  <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
+                  <div class="actions-style-2-wrapper">
+                     <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
+                  </div>
+                  <div class="popular-badge">
+                     <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
+                     <p>For Sale</p>
+                  </div>
+               </div>
+               <div class="property-content">
+                  <div class="media-body">
+                     <h3 class="box-title"><a href="property-details.php">Modern Apartment</a></h3>
+                     <div class="box-text">
+                        <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
+                        39581 Rohan Estates, New York
+                     </div>
+                  </div>
+                  <ul class="property-featured">
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
+                        Bed 4
+                     </li>
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
+                        Bath 2
+                     </li>
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
+                        1500 sqft
+                     </li>
+                  </ul>
+                  <div class="property-bottom">
+                     <h6 class="box-title">$132,800.00</h6>
+                     <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 filter-item cat4">
+            <div class="popular-list-1">
+               <div class="thumb-wrapper">
+                  <div class="th-slider" data-slider-options='{"loop":false, "autoplay": false,"autoHeight": true, "effect":"fade"}'>
+                     <div class="swiper-wrapper">
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-7.jpg"><img src="assets/img/popular/popular-1-7.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-8.jpg"><img src="assets/img/popular/popular-1-8.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-7.jpg"><img src="assets/img/popular/popular-1-7.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-8.jpg"><img src="assets/img/popular/popular-1-8.jpg" alt="Image"></a></div>
+                     </div>
+                     <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
+                  </div>
+                  <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
+                  <div class="actions-style-2-wrapper">
+                     <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
+                  </div>
+                  <div class="popular-badge">
+                     <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
+                     <p>For Sale</p>
+                  </div>
+               </div>
+               <div class="property-content">
+                  <div class="media-body">
+                     <h3 class="box-title"><a href="property-details.php">Seaside Villa 5078</a></h3>
+                     <div class="box-text">
+                        <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
+                        39581 Rohan Estates, New York
+                     </div>
+                  </div>
+                  <ul class="property-featured">
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
+                        Bed 4
+                     </li>
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
+                        Bath 2
+                     </li>
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
+                        1500 sqft
+                     </li>
+                  </ul>
+                  <div class="property-bottom">
+                     <h6 class="box-title">$245,800.00</h6>
+                     <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 filter-item cat2 cat4">
+            <div class="popular-list-1">
+               <div class="thumb-wrapper">
+                  <div class="th-slider" data-slider-options='{"loop":false, "autoplay": false,"autoHeight": true, "effect":"fade"}'>
+                     <div class="swiper-wrapper">
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-8.jpg"><img src="assets/img/popular/popular-1-8.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-9.jpg"><img src="assets/img/popular/popular-1-9.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-8.jpg"><img src="assets/img/popular/popular-1-8.jpg" alt="Image"></a></div>
+                        <div class="swiper-slide"><a class="popular-popup-image" href="assets/img/popular/popular-1-9.jpg"><img src="assets/img/popular/popular-1-9.jpg" alt="Image"></a></div>
+                     </div>
+                     <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
+                  </div>
+                  <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
+                  <div class="actions-style-2-wrapper">
+                     <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
+                  </div>
+                  <div class="popular-badge">
+                     <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
+                     <p>For Sale</p>
+                  </div>
+               </div>
+               <div class="property-content">
+                  <div class="media-body">
+                     <h3 class="box-title"><a href="property-details.php">Ranch Style Home</a></h3>
+                     <div class="box-text">
+                        <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
+                        39581 Rohan Estates, New York
+                     </div>
+                  </div>
+                  <ul class="property-featured">
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
+                        Bed 4
+                     </li>
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
+                        Bath 2
+                     </li>
+                     <li>
+                        <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
+                        1500 sqft
+                     </li>
+                  </ul>
+                  <div class="property-bottom">
+                     <h6 class="box-title">$415,800.00</h6>
+                     <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
+                  </div>
                </div>
             </div>
          </div>
       </div>
    </div>
-   <section class="property-values-sec-2 space overflow-hidden">
-      <div class="container">
-         <div class="row justify-content-center">
-            <div class="col-xl-7">
-               <div class="title-area text-center">
-                  <p class="sub-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span> Properties Values</p>
-                  <h2 class="sec-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">Trusted by 100+ Million Buyers</h2>
+</section>
+<!-- <div class="gallery-sec-2 overflow-hidden bg-smoke space overflow-hidden">
+   <div class="shape-mockup moving d-none d-md-block" style="top: 12%; left: 7%;"><img src="assets/img/shape/gallery-sec-1-left.png" alt="img"></div>
+   <div class="container">
+      <div class="row justify-content-center">
+         <div class="col-xl-7">
+            <div class="title-area text-center">
+               <p class="sub-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span>Explore Cities</p>
+               <h2 class="sec-title mb-2 fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">Resale Properties</h2>
+               <p class="box-text fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.5s">Find your dream apartment with our listing</p>
+            </div>
+         </div>
+      </div>
+      <div class="gallery-2-slider-wrap">
+         <div class="slider-area">
+            <div class="swiper th-slider has-shadow gallery-1" id="gallerySlider1" data-slider-options='{"centeredSlides":false,"loop":true,"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"3"},"1200":{"slidesPerView":"3"},"1400":{"slidesPerView":"4"}}}'>
+               <div class="swiper-wrapper">
+                  <div class="swiper-slide">
+                     <div class="gallery-card style-2">
+                        <div class="gallery-img">
+                           <img src="assets/img/gallery/gallery-2-1.jpg" alt="gallery image">
+                           <div class="gallery-content">
+                              <div class="gallery-content-wrapper">
+                                 <div class="left-content">
+                                    <p class="box-text">250 Properties</p>
+                                    <h2 class="box-title"><a href="property-details.php">London, United Kngdom</a></h2>
+                                 </div>
+                                 <div class="link"><a href="property-details.php"><i class="far fa-arrow-right"></i></a></div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="gallery-card style-2">
+                        <div class="gallery-img">
+                           <img src="assets/img/gallery/gallery-2-2.jpg" alt="gallery image">
+                           <div class="gallery-content">
+                              <div class="gallery-content-wrapper">
+                                 <div class="left-content">
+                                    <p class="box-text">135 Properties</p>
+                                    <h2 class="box-title"><a href="property-details.php">New Jersey, New York</a></h2>
+                                 </div>
+                                 <div class="link"><a href="property-details.php"><i class="far fa-arrow-right"></i></a></div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="gallery-card style-2">
+                        <div class="gallery-img">
+                           <img src="assets/img/gallery/gallery-2-3.jpg" alt="gallery image">
+                           <div class="gallery-content">
+                              <div class="gallery-content-wrapper">
+                                 <div class="left-content">
+                                    <p class="box-text">225 Properties</p>
+                                    <h2 class="box-title"><a href="property-details.php">Cape Town, South Africa</a></h2>
+                                 </div>
+                                 <div class="link"><a href="property-details.php"><i class="far fa-arrow-right"></i></a></div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="gallery-card style-2">
+                        <div class="gallery-img">
+                           <img src="assets/img/gallery/gallery-2-4.jpg" alt="gallery image">
+                           <div class="gallery-content">
+                              <div class="gallery-content-wrapper">
+                                 <div class="left-content">
+                                    <p class="box-text">143 Properties</p>
+                                    <h2 class="box-title"><a href="property-details.php">Los Angeles, New York</a></h2>
+                                 </div>
+                                 <div class="link"><a href="property-details.php"><i class="far fa-arrow-right"></i></a></div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="gallery-card style-2">
+                        <div class="gallery-img">
+                           <img src="assets/img/gallery/gallery-2-5.jpg" alt="gallery image">
+                           <div class="gallery-content">
+                              <div class="gallery-content-wrapper">
+                                 <div class="left-content">
+                                    <p class="box-text">321 Properties</p>
+                                    <h2 class="box-title"><a href="property-details.php">Seoul, South Korea</a></h2>
+                                 </div>
+                                 <div class="link"><a href="property-details.php"><i class="far fa-arrow-right"></i></a></div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="gallery-card style-2">
+                        <div class="gallery-img">
+                           <img src="assets/img/gallery/gallery-2-6.jpg" alt="gallery image">
+                           <div class="gallery-content">
+                              <div class="gallery-content-wrapper">
+                                 <div class="left-content">
+                                    <p class="box-text">212 Properties</p>
+                                    <h2 class="box-title"><a href="property-details.php">Seoul, South Korea</a></h2>
+                                 </div>
+                                 <div class="link"><a href="property-details.php"><i class="far fa-arrow-right"></i></a></div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="gallery-card style-2">
+                        <div class="gallery-img">
+                           <img src="assets/img/gallery/gallery-2-7.jpg" alt="gallery image">
+                           <div class="gallery-content">
+                              <div class="gallery-content-wrapper">
+                                 <div class="left-content">
+                                    <p class="box-text">432 Properties</p>
+                                    <h2 class="box-title"><a href="property-details.php">London, United Kngdom</a></h2>
+                                 </div>
+                                 <div class="link"><a href="property-details.php"><i class="far fa-arrow-right"></i></a></div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="gallery-card style-2">
+                        <div class="gallery-img">
+                           <img src="assets/img/gallery/gallery-2-8.jpg" alt="gallery image">
+                           <div class="gallery-content">
+                              <div class="gallery-content-wrapper">
+                                 <div class="left-content">
+                                    <p class="box-text">211 Properties</p>
+                                    <h2 class="box-title"><a href="property-details.php">New Jersey, New York</a></h2>
+                                 </div>
+                                 <div class="link"><a href="property-details.php"><i class="far fa-arrow-right"></i></a></div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <button data-slider-prev="#gallerySlider1" class="slider-arrow slider-prev style2"><i class="far fa-arrow-left"></i></button> <button data-slider-next="#gallerySlider1" class="slider-arrow slider-next style2"><i class="far fa-arrow-right"></i></button>
+            </div>
+         </div>
+      </div>
+   </div>
+</div> -->
+<section class="property-values-sec-2 space overflow-hidden">
+   <div class="container">
+      <div class="row justify-content-center">
+         <div class="col-xl-7">
+            <div class="title-area text-center">
+               <p class="sub-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span> Properties Values</p>
+               <h2 class="sec-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">Trusted by 500+ Families</h2>
+            </div>
+         </div>
+      </div>
+      <div class="row gy-4 justify-content-center align-items-center">
+         <div class="col-lg-4 col-md-12">
+            <div class="property-values-2-item">
+               <div class="thumb">
+                  <img src="assets/img/property-values/property-values-2-1.jpg" alt="img">
+                  <!-- <div class="plus-icon"><i class="fa-solid fa-plus"></i></div> -->
+                  <div class="hover-content">
+                     <!-- <h4 class="box-title"><a href="property-details.php">Top Rated Villa</a></h4> -->
+                     <p class="box-text">Find the very best villas with in-depth reviews and ratngs from multiple experts.</p>
+                     <!-- <a class="th-btn bg-theme pill" href="property-details.php">Search Villas</a> -->
+                  </div>
                </div>
             </div>
          </div>
-         <div class="row gy-4 justify-content-center align-items-center">
-            <div class="col-lg-4 col-md-12">
-               <div class="property-values-2-item">
-                  <div class="thumb">
-                     <img src="assets/img/property-values/property-values-2-1.jpg" alt="img">
-                     <div class="plus-icon"><i class="fa-solid fa-plus"></i></div>
-                     <div class="hover-content">
-                        <h4 class="box-title"><a href="property-details.php">Top Rated Villa</a></h4>
-                        <p class="box-text">Find the very best villas with in-depth reviews and ratngs from multiple experts.</p>
-                        <a class="th-btn bg-theme pill" href="property-details.php">Search Villas</a>
-                     </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="property-values-2-item">
+               <div class="thumb">
+                  <img src="assets/img/property-values/property-values-2-2.jpg" alt="img">
+                  <!-- <div class="plus-icon"><i class="fa-solid fa-plus"></i></div> -->
+                  <div class="hover-content">
+                     <!-- <h4 class="box-title"><a href="property-details.php">Royal Garden Estate</a></h4> -->
+                     <p class="box-text">Find the very best villas with in-depth reviews and ratngs from multiple experts.</p>
+                     <!-- <a class="th-btn bg-theme pill" href="property-details.php">Search Villas</a> -->
+                  </div>
+               </div>
+               <div class="thumb">
+                  <img src="assets/img/property-values/property-values-2-3.jpg" alt="img">
+                  <!-- <div class="plus-icon"><i class="fa-solid fa-plus"></i></div> -->
+                  <div class="hover-content">
+                     <!-- <h4 class="box-title"><a href="property-details.php">Low Rated Villa</a></h4> -->
+                     <p class="box-text">Find the very best villas with in-depth reviews and ratngs from multiple experts.</p>
+                     <!-- <a class="th-btn bg-theme pill" href="property-details.php">Search Villas</a> -->
                   </div>
                </div>
             </div>
-            <div class="col-lg-4 col-md-12">
-               <div class="property-values-2-item">
-                  <div class="thumb">
-                     <img src="assets/img/property-values/property-values-2-2.jpg" alt="img">
-                     <div class="plus-icon"><i class="fa-solid fa-plus"></i></div>
-                     <div class="hover-content">
-                        <h4 class="box-title"><a href="property-details.php">Royal Garden Estate</a></h4>
-                        <p class="box-text">Find the very best villas with in-depth reviews and ratngs from multiple experts.</p>
-                        <a class="th-btn bg-theme pill" href="property-details.php">Search Villas</a>
-                     </div>
-                  </div>
-                  <div class="thumb">
-                     <img src="assets/img/property-values/property-values-2-3.jpg" alt="img">
-                     <div class="plus-icon"><i class="fa-solid fa-plus"></i></div>
-                     <div class="hover-content">
-                        <h4 class="box-title"><a href="property-details.php">Low Rated Villa</a></h4>
-                        <p class="box-text">Find the very best villas with in-depth reviews and ratngs from multiple experts.</p>
-                        <a class="th-btn bg-theme pill" href="property-details.php">Search Villas</a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-lg-4 col-md-12">
-               <div class="property-values-2-item">
-                  <div class="thumb">
-                     <img src="assets/img/property-values/property-values-2-4.jpg" alt="img">
-                     <div class="plus-icon"><i class="fa-solid fa-plus"></i></div>
-                     <div class="hover-content">
-                        <h4 class="box-title"><a href="property-details.php">Palm Grove Escape</a></h4>
-                        <p class="box-text">Find the very best villas with in-depth reviews and ratngs from multiple experts.</p>
-                        <a class="th-btn bg-theme pill" href="property-details.php">Search Villas</a>
-                     </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="property-values-2-item">
+               <div class="thumb">
+                  <img src="assets/img/property-values/property-values-2-4.jpg" alt="img">
+                  <!-- <div class="plus-icon"><i class="fa-solid fa-plus"></i></div> -->
+                  <div class="hover-content">
+                     <!-- <h4 class="box-title"><a href="property-details.php">Palm Grove Escape</a></h4> -->
+                     <p class="box-text">Find the very best villas with in-depth reviews and ratngs from multiple experts.</p>
+                     <!-- <a class="th-btn bg-theme pill" href="property-details.php">Search Villas</a> -->
                   </div>
                </div>
             </div>
          </div>
       </div>
-   </section>
-   <section class="team-area-1 space-bottom overflow-hidden">
+   </div>
+</section>
+<!-- <section class="team-area-1 space-bottom overflow-hidden">
       <div class="shape-mockup jump d-none d-lg-block" style="top: 6%; right: 4%;"><img src="assets/img/shape/team-2-shape.png" alt="img"></div>
       <div class="container">
          <div class="row justify-content-center">
@@ -1044,8 +1082,8 @@
             </div>
          </div>
       </div>
-   </section>
-   <div class="download-sec-1" data-bg-src="assets/img/bg/download-bg-1.jpg">
+   </section> -->
+<!-- <div class="download-sec-1" data-bg-src="assets/img/bg/download-bg-1.jpg">
       <div class="shape-mockup jump" style="top: 7%; right: 6%;"><img src="assets/img/shape/download-shape.png" alt="img"></div>
       <div class="container">
          <div class="row gy-4 align-items-center">
@@ -1078,243 +1116,208 @@
             </div>
          </div>
       </div>
-   </div>
-   <div class="marquee-section overflow-hidden overflow-hidden bg-smoke">
-      <div class="marquee-bg-wrap"></div>
-      <div class="marquee-wrapper">
-         <div class="marquee">
-            <div class="marquee-group">
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-            </div>
-            <div class="marquee-group">
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-               <div class="text"><a href="service.php"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
+   </div> -->
+<section class="popular-sec-1 space overflow-hidden bg-smoke">
+   <div class="container">
+      <div class="row justify-content-lg-between gy-4 justify-content-center align-items-center mb-40">
+         <div class="col-lg-6">
+            <div class="title-area text-left mb-2">
+               <p class="sub-title feature-sec-v2" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span> Latest Properties</p>
+               <h2 class="sec-title feature-sec-v2" data-wow-duration="1.5s" data-wow-delay="0.3s">Featured Properties</h2>
             </div>
          </div>
+         <div class="col-lg-auto"><a href="property.php" class="th-btn tab-btn style3 pill feature-sec-v2" data-wow-duration="1.5s" data-wow-delay="0.5s">Browse Now</a></div>
       </div>
-   </div>
-   <section class="popular-sec-1 space overflow-hidden bg-smoke">
-      <div class="container">
-         <div class="row justify-content-lg-between gy-4 justify-content-center align-items-center mb-40">
-            <div class="col-lg-6">
-               <div class="title-area text-left mb-2">
-                  <p class="sub-title feature-sec-v2" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span> Latest Properties</p>
-                  <h2 class="sec-title feature-sec-v2" data-wow-duration="1.5s" data-wow-delay="0.3s">Featured Properties</h2>
+      <div class="slider-area">
+         <div class="swiper th-slider has-shadow" id="featuresSlider" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"1"},"992":{"slidesPerView":"1"},"1200":{"slidesPerView":"2"},"1400":{"slidesPerView":"2"}}, "autoplay": "true", "autoHeight": "true","spaceBetween":60}'>
+            <div class="swiper-wrapper">
+               <div class="swiper-slide">
+                  <div class="popular-list-1 style-2">
+                     <div class="thumb-wrapper">
+                        <img src="assets/img/popular/feature-1-1.jpg" alt="Image">
+                        <div class="popular-badge">
+                           <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
+                           <p>For Sale</p>
+                        </div>
+                     </div>
+                     <div class="property-content">
+                        <div class="media-body">
+                           <h3 class="box-title"><a href="property-details.php">Seaside Villa 5078</a></h3>
+                           <div class="box-text">
+                              <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
+                              39581 Rohan Estates, New York
+                           </div>
+                        </div>
+                        <ul class="property-featured">
+                           <li>
+                              <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
+                              Bed 4
+                           </li>
+                           <li>
+                              <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
+                              Bath 2
+                           </li>
+                           <li>
+                              <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
+                              1500 sqft
+                           </li>
+                        </ul>
+                        <div class="property-bottom">
+                           <h6 class="box-title">$179,800.00</h6>
+                           <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
+                        </div>
+                        <div class="agent-wrap">
+                           <div class="agent-thumb"><img src="assets/img/popular/agent-thumb-1.jpg" alt="img"></div>
+                           <div class="agent-content">
+                              <h4 class="box-title">Roberto Ankunding</h4>
+                              <p class="box-text">Sale Agent</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
                </div>
-            </div>
-            <div class="col-lg-auto"><a href="property.php" class="th-btn tab-btn style3 pill feature-sec-v2" data-wow-duration="1.5s" data-wow-delay="0.5s">Browse Now</a></div>
-         </div>
-         <div class="slider-area">
-            <div class="swiper th-slider has-shadow" id="featuresSlider" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"1"},"992":{"slidesPerView":"1"},"1200":{"slidesPerView":"2"},"1400":{"slidesPerView":"2"}}, "autoplay": "true", "autoHeight": "true","spaceBetween":60}'>
-               <div class="swiper-wrapper">
-                  <div class="swiper-slide">
-                     <div class="popular-list-1 style-2">
-                        <div class="thumb-wrapper">
-                           <img src="assets/img/popular/feature-1-1.jpg" alt="Image">
-                           <div class="popular-badge">
-                              <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
-                              <p>For Sale</p>
+               <div class="swiper-slide">
+                  <div class="popular-list-1 style-2">
+                     <div class="thumb-wrapper">
+                        <img src="assets/img/popular/feature-1-2.jpg" alt="Image">
+                        <div class="popular-badge">
+                           <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
+                           <p>For Sale</p>
+                        </div>
+                     </div>
+                     <div class="property-content">
+                        <div class="media-body">
+                           <h3 class="box-title"><a href="property-details.php">Luxurious Modern Home</a></h3>
+                           <div class="box-text">
+                              <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
+                              39581 Rohan Estates, New York
                            </div>
                         </div>
-                        <div class="property-content">
-                           <div class="media-body">
-                              <h3 class="box-title"><a href="property-details.php">Seaside Villa 5078</a></h3>
-                              <div class="box-text">
-                                 <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
-                                 39581 Rohan Estates, New York
-                              </div>
-                           </div>
-                           <ul class="property-featured">
-                              <li>
-                                 <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
-                                 Bed 4
-                              </li>
-                              <li>
-                                 <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
-                                 Bath 2
-                              </li>
-                              <li>
-                                 <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
-                                 1500 sqft
-                              </li>
-                           </ul>
-                           <div class="property-bottom">
-                              <h6 class="box-title">$179,800.00</h6>
-                              <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
-                           </div>
-                           <div class="agent-wrap">
-                              <div class="agent-thumb"><img src="assets/img/popular/agent-thumb-1.jpg" alt="img"></div>
-                              <div class="agent-content">
-                                 <h4 class="box-title">Roberto Ankunding</h4>
-                                 <p class="box-text">Sale Agent</p>
-                              </div>
+                        <ul class="property-featured">
+                           <li>
+                              <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
+                              Bed 4
+                           </li>
+                           <li>
+                              <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
+                              Bath 2
+                           </li>
+                           <li>
+                              <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
+                              1500 sqft
+                           </li>
+                        </ul>
+                        <div class="property-bottom">
+                           <h6 class="box-title">$335,800.00</h6>
+                           <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
+                        </div>
+                        <div class="agent-wrap">
+                           <div class="agent-thumb"><img src="assets/img/popular/agent-thumb-2.jpg" alt="img"></div>
+                           <div class="agent-content">
+                              <h4 class="box-title">Walter Deckow</h4>
+                              <p class="box-text">Sale Agent</p>
                            </div>
                         </div>
                      </div>
                   </div>
-                  <div class="swiper-slide">
-                     <div class="popular-list-1 style-2">
-                        <div class="thumb-wrapper">
-                           <img src="assets/img/popular/feature-1-2.jpg" alt="Image">
-                           <div class="popular-badge">
-                              <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
-                              <p>For Sale</p>
+               </div>
+               <div class="swiper-slide">
+                  <div class="popular-list-1 style-2">
+                     <div class="thumb-wrapper">
+                        <img src="assets/img/popular/feature-1-1.jpg" alt="Image">
+                        <div class="popular-badge">
+                           <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
+                           <p>For Sale</p>
+                        </div>
+                     </div>
+                     <div class="property-content">
+                        <div class="media-body">
+                           <h3 class="box-title"><a href="property-details.php">Cozy Cottage</a></h3>
+                           <div class="box-text">
+                              <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
+                              39581 Rohan Estates, New York
                            </div>
                         </div>
-                        <div class="property-content">
-                           <div class="media-body">
-                              <h3 class="box-title"><a href="property-details.php">Luxurious Modern Home</a></h3>
-                              <div class="box-text">
-                                 <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
-                                 39581 Rohan Estates, New York
-                              </div>
-                           </div>
-                           <ul class="property-featured">
-                              <li>
-                                 <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
-                                 Bed 4
-                              </li>
-                              <li>
-                                 <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
-                                 Bath 2
-                              </li>
-                              <li>
-                                 <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
-                                 1500 sqft
-                              </li>
-                           </ul>
-                           <div class="property-bottom">
-                              <h6 class="box-title">$335,800.00</h6>
-                              <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
-                           </div>
-                           <div class="agent-wrap">
-                              <div class="agent-thumb"><img src="assets/img/popular/agent-thumb-2.jpg" alt="img"></div>
-                              <div class="agent-content">
-                                 <h4 class="box-title">Walter Deckow</h4>
-                                 <p class="box-text">Sale Agent</p>
-                              </div>
+                        <ul class="property-featured">
+                           <li>
+                              <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
+                              Bed 4
+                           </li>
+                           <li>
+                              <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
+                              Bath 2
+                           </li>
+                           <li>
+                              <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
+                              1500 sqft
+                           </li>
+                        </ul>
+                        <div class="property-bottom">
+                           <h6 class="box-title">$250,800.00</h6>
+                           <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
+                        </div>
+                        <div class="agent-wrap">
+                           <div class="agent-thumb"><img src="assets/img/popular/agent-thumb-1.jpg" alt="img"></div>
+                           <div class="agent-content">
+                              <h4 class="box-title">Roberto Ankunding</h4>
+                              <p class="box-text">Sale Agent</p>
                            </div>
                         </div>
                      </div>
                   </div>
-                  <div class="swiper-slide">
-                     <div class="popular-list-1 style-2">
-                        <div class="thumb-wrapper">
-                           <img src="assets/img/popular/feature-1-1.jpg" alt="Image">
-                           <div class="popular-badge">
-                              <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
-                              <p>For Sale</p>
-                           </div>
-                        </div>
-                        <div class="property-content">
-                           <div class="media-body">
-                              <h3 class="box-title"><a href="property-details.php">Cozy Cottage</a></h3>
-                              <div class="box-text">
-                                 <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
-                                 39581 Rohan Estates, New York
-                              </div>
-                           </div>
-                           <ul class="property-featured">
-                              <li>
-                                 <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
-                                 Bed 4
-                              </li>
-                              <li>
-                                 <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
-                                 Bath 2
-                              </li>
-                              <li>
-                                 <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
-                                 1500 sqft
-                              </li>
-                           </ul>
-                           <div class="property-bottom">
-                              <h6 class="box-title">$250,800.00</h6>
-                              <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
-                           </div>
-                           <div class="agent-wrap">
-                              <div class="agent-thumb"><img src="assets/img/popular/agent-thumb-1.jpg" alt="img"></div>
-                              <div class="agent-content">
-                                 <h4 class="box-title">Roberto Ankunding</h4>
-                                 <p class="box-text">Sale Agent</p>
-                              </div>
-                           </div>
+               </div>
+               <div class="swiper-slide">
+                  <div class="popular-list-1 style-2">
+                     <div class="thumb-wrapper">
+                        <img src="assets/img/popular/feature-1-2.jpg" alt="Image">
+                        <div class="popular-badge">
+                           <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
+                           <p>For Sale</p>
                         </div>
                      </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="popular-list-1 style-2">
-                        <div class="thumb-wrapper">
-                           <img src="assets/img/popular/feature-1-2.jpg" alt="Image">
-                           <div class="popular-badge">
-                              <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
-                              <p>For Sale</p>
+                     <div class="property-content">
+                        <div class="media-body">
+                           <h3 class="box-title"><a href="property-details.php">Modern Beach House</a></h3>
+                           <div class="box-text">
+                              <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
+                              39581 Rohan Estates, New York
                            </div>
                         </div>
-                        <div class="property-content">
-                           <div class="media-body">
-                              <h3 class="box-title"><a href="property-details.php">Modern Beach House</a></h3>
-                              <div class="box-text">
-                                 <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>
-                                 39581 Rohan Estates, New York
-                              </div>
-                           </div>
-                           <ul class="property-featured">
-                              <li>
-                                 <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
-                                 Bed 4
-                              </li>
-                              <li>
-                                 <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
-                                 Bath 2
-                              </li>
-                              <li>
-                                 <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
-                                 1500 sqft
-                              </li>
-                           </ul>
-                           <div class="property-bottom">
-                              <h6 class="box-title">$189,800.00</h6>
-                              <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
-                           </div>
-                           <div class="agent-wrap">
-                              <div class="agent-thumb"><img src="assets/img/popular/agent-thumb-2.jpg" alt="img"></div>
-                              <div class="agent-content">
-                                 <h4 class="box-title">Walter Deckow</h4>
-                                 <p class="box-text">Sale Agent</p>
-                              </div>
+                        <ul class="property-featured">
+                           <li>
+                              <div class="icon"><img src="assets/img/icon/bed.svg" alt="icon"></div>
+                              Bed 4
+                           </li>
+                           <li>
+                              <div class="icon"><img src="assets/img/icon/bath.svg" alt="icon"></div>
+                              Bath 2
+                           </li>
+                           <li>
+                              <div class="icon"><img src="assets/img/icon/sqft.svg" alt="icon"></div>
+                              1500 sqft
+                           </li>
+                        </ul>
+                        <div class="property-bottom">
+                           <h6 class="box-title">$189,800.00</h6>
+                           <a class="th-btn sm style3 pill" href="property-details.php">View More</a>
+                        </div>
+                        <div class="agent-wrap">
+                           <div class="agent-thumb"><img src="assets/img/popular/agent-thumb-2.jpg" alt="img"></div>
+                           <div class="agent-content">
+                              <h4 class="box-title">Walter Deckow</h4>
+                              <p class="box-text">Sale Agent</p>
                            </div>
                         </div>
                      </div>
                   </div>
                </div>
             </div>
-            <button data-slider-prev="#featuresSlider" class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button data-slider-next="#featuresSlider" class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button>
          </div>
+         <button data-slider-prev="#featuresSlider" class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button data-slider-next="#featuresSlider" class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button>
       </div>
-   </section>
-   <section class="testi-card-area-2 space overflow-hidden">
+   </div>
+</section>
+<!-- <section class="testi-card-area-2 space overflow-hidden">
       <div class="container">
          <div class="row justify-content-center">
             <div class="col-xl-7">
@@ -1443,60 +1446,59 @@
             </div>
          </div>
       </div>
-   </section>
-   <div class="space bg-smoke">
-      <div class="shape-mockup" style="bottom: 0; left: 0%;"><img src="assets/img/shape/faq-2-shape.png" alt="img"></div>
-      <div class="shape-mockup spin d-none d-lg-block" style="bottom: 11%; left: 7%;"><img src="assets/img/shape/faq-2-circle-shape.png" alt="img"></div>
-      <div class="container">
-         <div class="row justify-content-between gy-4">
-            <div class="col-lg-5 col-xl-5 col-xxl-4">
-               <div class="title-area text-left pe-xxl-5">
-                  <p class="sub-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span>FAQ</p>
-                  <h2 class="sec-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">What would you like to know about Ambr?</h2>
-                  <p class="sec-text fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.5s">Ancilla cogo cognomen absorbeo coerceo apto. Ago vulgaris absens decor. Valetudo urbs sollers. Ter tricesimus currus aro vilis suadeo ulterius aveho.</p>
-                  <a href="about.php" class="th-btn bg-black pill fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s">Free Consultation</a>
-               </div>
+   </section> -->
+<div class="space bg-smoke">
+   <div class="shape-mockup" style="bottom: 0; left: 0%;"><img src="assets/img/shape/faq-2-shape.png" alt="img"></div>
+   <div class="shape-mockup spin d-none d-lg-block" style="bottom: 11%; left: 7%;"><img src="assets/img/shape/faq-2-circle-shape.png" alt="img"></div>
+   <div class="container">
+      <div class="row justify-content-between gy-4">
+         <div class="col-lg-5 col-xl-5 col-xxl-4">
+            <div class="title-area text-left pe-xxl-5">
+               <p class="sub-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span>FAQ</p>
+               <h2 class="sec-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">What would you like to know about Ambr?</h2>
+               <p class="sec-text fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.5s">Ancilla cogo cognomen absorbeo coerceo apto. Ago vulgaris absens decor. Valetudo urbs sollers. Ter tricesimus currus aro vilis suadeo ulterius aveho.</p>
+               <a href="about.php" class="th-btn bg-black pill fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s">Free Consultation</a>
             </div>
-            <div class="col-lg-7 col-xl-7 col-xxl-7">
-               <div class="accordion-1 accordion" id="faqAccordion">
-                  <div class="accordion-card active">
-                     <div class="accordion-header" id="collapse-item-1"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1"><span class="serial-numb">1. </span>What is Ambr real estate?</button></div>
-                     <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
-                        <div class="accordion-body">
-                           <p class="faq-text">Most Islamic centers offer charity programs, counseling, and financial assistance for those in need. Non-Muslims are welcome to visit mosques. They should dress modestly and remove their shoes upon entering. You can attend community events, volunteer at the mosque, join study circles, or participate in outreach programs.</p>
-                        </div>
+         </div>
+         <div class="col-lg-7 col-xl-7 col-xxl-7">
+            <div class="accordion-1 accordion" id="faqAccordion">
+               <div class="accordion-card active">
+                  <div class="accordion-header" id="collapse-item-1"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1"><span class="serial-numb">1. </span>What is Ambr real estate?</button></div>
+                  <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
+                     <div class="accordion-body">
+                        <p class="faq-text">Most Islamic centers offer charity programs, counseling, and financial assistance for those in need. Non-Muslims are welcome to visit mosques. They should dress modestly and remove their shoes upon entering. You can attend community events, volunteer at the mosque, join study circles, or participate in outreach programs.</p>
                      </div>
                   </div>
-                  <div class="accordion-card">
-                     <div class="accordion-header" id="collapse-item-2"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2"><span class="serial-numb">2. </span>How to work Ambr all services?</button></div>
-                     <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
-                        <div class="accordion-body">
-                           <p class="faq-text">Most Islamic centers offer charity programs, counseling, and financial assistance for those in need. Non-Muslims are welcome to visit mosques. They should dress modestly and remove their shoes upon entering. You can attend community events, volunteer at the mosque, join study circles, or participate in outreach programs.</p>
-                        </div>
+               </div>
+               <div class="accordion-card">
+                  <div class="accordion-header" id="collapse-item-2"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2"><span class="serial-numb">2. </span>How to work Ambr all services?</button></div>
+                  <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
+                     <div class="accordion-body">
+                        <p class="faq-text">Most Islamic centers offer charity programs, counseling, and financial assistance for those in need. Non-Muslims are welcome to visit mosques. They should dress modestly and remove their shoes upon entering. You can attend community events, volunteer at the mosque, join study circles, or participate in outreach programs.</p>
                      </div>
                   </div>
-                  <div class="accordion-card">
-                     <div class="accordion-header" id="collapse-item-3"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"><span class="serial-numb">3. </span>What resources are available for interfaith dialogue?</button></div>
-                     <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
-                        <div class="accordion-body">
-                           <p class="faq-text">Most Islamic centers offer charity programs, counseling, and financial assistance for those in need. Non-Muslims are welcome to visit mosques. They should dress modestly and remove their shoes upon entering. You can attend community events, volunteer at the mosque, join study circles, or participate in outreach programs.</p>
-                        </div>
+               </div>
+               <div class="accordion-card">
+                  <div class="accordion-header" id="collapse-item-3"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"><span class="serial-numb">3. </span>What resources are available for interfaith dialogue?</button></div>
+                  <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
+                     <div class="accordion-body">
+                        <p class="faq-text">Most Islamic centers offer charity programs, counseling, and financial assistance for those in need. Non-Muslims are welcome to visit mosques. They should dress modestly and remove their shoes upon entering. You can attend community events, volunteer at the mosque, join study circles, or participate in outreach programs.</p>
                      </div>
                   </div>
-                  <div class="accordion-card">
-                     <div class="accordion-header" id="collapse-item-4"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4"><span class="serial-numb">4. </span>What programs are available for developer?</button></div>
-                     <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
-                        <div class="accordion-body">
-                           <p class="faq-text">Most Islamic centers offer charity programs, counseling, and financial assistance for those in need. Non-Muslims are welcome to visit mosques. They should dress modestly and remove their shoes upon entering. You can attend community events, volunteer at the mosque, join study circles, or participate in outreach programs.</p>
-                        </div>
+               </div>
+               <div class="accordion-card">
+                  <div class="accordion-header" id="collapse-item-4"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4"><span class="serial-numb">4. </span>What programs are available for developer?</button></div>
+                  <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
+                     <div class="accordion-body">
+                        <p class="faq-text">Most Islamic centers offer charity programs, counseling, and financial assistance for those in need. Non-Muslims are welcome to visit mosques. They should dress modestly and remove their shoes upon entering. You can attend community events, volunteer at the mosque, join study circles, or participate in outreach programs.</p>
                      </div>
                   </div>
-                  <div class="accordion-card">
-                     <div class="accordion-header" id="collapse-item-5"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5"><span class="serial-numb">5. </span>How can I contribute to the local real estate?</button></div>
-                     <div id="collapse-5" class="accordion-collapse collapse" aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
-                        <div class="accordion-body">
-                           <p class="faq-text">Most Islamic centers offer charity programs, counseling, and financial assistance for those in need. Non-Muslims are welcome to visit mosques. They should dress modestly and remove their shoes upon entering. You can attend community events, volunteer at the mosque, join study circles, or participate in outreach programs.</p>
-                        </div>
+               </div>
+               <div class="accordion-card">
+                  <div class="accordion-header" id="collapse-item-5"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5"><span class="serial-numb">5. </span>How can I contribute to the local real estate?</button></div>
+                  <div id="collapse-5" class="accordion-collapse collapse" aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
+                     <div class="accordion-body">
+                        <p class="faq-text">Most Islamic centers offer charity programs, counseling, and financial assistance for those in need. Non-Muslims are welcome to visit mosques. They should dress modestly and remove their shoes upon entering. You can attend community events, volunteer at the mosque, join study circles, or participate in outreach programs.</p>
                      </div>
                   </div>
                </div>
@@ -1504,105 +1506,106 @@
          </div>
       </div>
    </div>
-   <section class="space overflow-hidden" id="blog-sec">
-      <div class="container">
-         <div class="row justify-content-lg-between justify-content-center align-items-end">
-            <div class="col-lg-6">
-               <div class="title-area text-left text-lg-start">
-                  <p class="sub-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span>latest News</p>
-                  <h2 class="sec-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">Latest news & articles</h2>
-                  <p class="sec-text pe-xl-4 fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.5s">Car dealerships typically feature showrooms where the latest models are displayed in a well-lit, aesthetically pleasing environment.</p>
-               </div>
-            </div>
-            <div class="col-lg-auto d-none d-lg-block">
-               <div class="sec-btn"><a href="blog.php" class="th-btn pill style3">Explore All <i class="fas fa-arrow-up-right"></i></a></div>
+</div>
+<section class="space overflow-hidden" id="blog-sec">
+   <div class="container">
+      <div class="row justify-content-lg-between justify-content-center align-items-end">
+         <div class="col-lg-6">
+            <div class="title-area text-left text-lg-start">
+               <p class="sub-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span>latest News</p>
+               <h2 class="sec-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">Latest news & articles</h2>
+               <p class="sec-text pe-xl-4 fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.5s">Car dealerships typically feature showrooms where the latest models are displayed in a well-lit, aesthetically pleasing environment.</p>
             </div>
          </div>
-         <div class="slider-area">
-            <div class="swiper th-slider has-shadow" id="blogSlider1" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"1"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"2"},"1300":{"slidesPerView":"3"}}, "autoHeight": "true"}'>
-               <div class="swiper-wrapper">
-                  <div class="swiper-slide">
-                     <div class="blog-card">
-                        <div class="blog-img">
-                           <a href="blog-details.php"><img src="assets/img/blog/blog_1_1.jpg" alt="Image"></a>
-                           <div class="date"><a href="blog.php">22 Feb</a></div>
-                        </div>
-                        <div class="blog-content">
-                           <div class="blog-meta"><a href="blog.php"><i class="fa-solid fa-user"></i> Emma</a> <a href="blog.php"><i class="fa-solid fa-comments"></i> No Comments</a></div>
-                           <h3 class="box-title"><a href="blog-details.php">Building gains into housing stocks and how to trade the sector</a></h3>
-                           <a href="blog-details.php" class="th-btn pill style3">Read More</a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="blog-card">
-                        <div class="blog-img">
-                           <a href="blog-details.php"><img src="assets/img/blog/blog_1_2.jpg" alt="Image"></a>
-                           <div class="date"><a href="blog.php">23 Feb</a></div>
-                        </div>
-                        <div class="blog-content">
-                           <div class="blog-meta"><a href="blog.php"><i class="fa-solid fa-user"></i> Michel</a> <a href="blog.php"><i class="fa-solid fa-comments"></i> 2 Comments</a></div>
-                           <h3 class="box-title"><a href="blog-details.php">92% of millennial homebuyers say has impacted their plans</a></h3>
-                           <a href="blog-details.php" class="th-btn pill style3">Read More</a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="blog-card">
-                        <div class="blog-img">
-                           <a href="blog-details.php"><img src="assets/img/blog/blog_1_3.jpg" alt="Image"></a>
-                           <div class="date"><a href="blog.php">24 Feb</a></div>
-                        </div>
-                        <div class="blog-content">
-                           <div class="blog-meta"><a href="blog.php"><i class="fa-solid fa-user"></i> Oliver</a> <a href="blog.php"><i class="fa-solid fa-comments"></i> No Comments</a></div>
-                           <h3 class="box-title"><a href="blog-details.php">Exploring the impact of climate change on global markets</a></h3>
-                           <a href="blog-details.php" class="th-btn pill style3">Read More</a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="blog-card">
-                        <div class="blog-img">
-                           <a href="blog-details.php"><img src="assets/img/blog/blog_1_4.jpg" alt="Image"></a>
-                           <div class="date"><a href="blog.php">26 Feb</a></div>
-                        </div>
-                        <div class="blog-content">
-                           <div class="blog-meta"><a href="blog.php"><i class="fa-solid fa-user"></i> Elena</a> <a href="blog.php"><i class="fa-solid fa-comments"></i> 5 Comments</a></div>
-                           <h3 class="box-title"><a href="blog-details.php">The future of city living and its influence on of the in design</a></h3>
-                           <a href="blog-details.php" class="th-btn pill style3">Read More</a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="blog-card">
-                        <div class="blog-img">
-                           <a href="blog-details.php"><img src="assets/img/blog/blog_1_5.jpg" alt="Image"></a>
-                           <div class="date"><a href="blog.php">27 Feb</a></div>
-                        </div>
-                        <div class="blog-content">
-                           <div class="blog-meta"><a href="blog.php"><i class="fa-solid fa-user"></i> Sam</a> <a href="blog.php"><i class="fa-solid fa-comments"></i> No Comments</a></div>
-                           <h3 class="box-title"><a href="blog-details.php">Exploring innovative architecture trends and their impact</a></h3>
-                           <a href="blog-details.php" class="th-btn pill style3">Read More</a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="blog-card">
-                        <div class="blog-img">
-                           <a href="blog-details.php"><img src="assets/img/blog/blog_1_6.jpg" alt="Image"></a>
-                           <div class="date"><a href="blog.php">16 Mar</a></div>
-                        </div>
-                        <div class="blog-content">
-                           <div class="blog-meta"><a href="blog.php"><i class="fa-solid fa-user"></i> David</a> <a href="blog.php"><i class="fa-solid fa-comments"></i> 8 Comments</a></div>
-                           <h3 class="box-title"><a href="blog-details.php">Breaking down latest tech trends and investment opportunity</a></h3>
-                           <a href="blog-details.php" class="th-btn pill style3">Read More</a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <button data-slider-prev="#blogSlider1" class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button data-slider-next="#blogSlider1" class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button>
+         <div class="col-lg-auto d-none d-lg-block">
+            <div class="sec-btn"><a href="blog.php" class="th-btn pill style3">Explore All <i class="fas fa-arrow-up-right"></i></a></div>
          </div>
       </div>
-   </section>
-   <?php include('partials/footer.php'); ?>
+      <div class="slider-area">
+         <div class="swiper th-slider has-shadow" id="blogSlider1" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"1"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"2"},"1300":{"slidesPerView":"3"}}, "autoHeight": "true"}'>
+            <div class="swiper-wrapper">
+               <div class="swiper-slide">
+                  <div class="blog-card">
+                     <div class="blog-img">
+                        <a href="blog-details.php"><img src="assets/img/blog/blog_1_1.jpg" alt="Image"></a>
+                        <div class="date"><a href="blog.php">22 Feb</a></div>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-meta"><a href="blog.php"><i class="fa-solid fa-user"></i> Emma</a> <a href="blog.php"><i class="fa-solid fa-comments"></i> No Comments</a></div>
+                        <h3 class="box-title"><a href="blog-details.php">Building gains into housing stocks and how to trade the sector</a></h3>
+                        <a href="blog-details.php" class="th-btn pill style3">Read More</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="swiper-slide">
+                  <div class="blog-card">
+                     <div class="blog-img">
+                        <a href="blog-details.php"><img src="assets/img/blog/blog_1_2.jpg" alt="Image"></a>
+                        <div class="date"><a href="blog.php">23 Feb</a></div>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-meta"><a href="blog.php"><i class="fa-solid fa-user"></i> Michel</a> <a href="blog.php"><i class="fa-solid fa-comments"></i> 2 Comments</a></div>
+                        <h3 class="box-title"><a href="blog-details.php">92% of millennial homebuyers say has impacted their plans</a></h3>
+                        <a href="blog-details.php" class="th-btn pill style3">Read More</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="swiper-slide">
+                  <div class="blog-card">
+                     <div class="blog-img">
+                        <a href="blog-details.php"><img src="assets/img/blog/blog_1_3.jpg" alt="Image"></a>
+                        <div class="date"><a href="blog.php">24 Feb</a></div>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-meta"><a href="blog.php"><i class="fa-solid fa-user"></i> Oliver</a> <a href="blog.php"><i class="fa-solid fa-comments"></i> No Comments</a></div>
+                        <h3 class="box-title"><a href="blog-details.php">Exploring the impact of climate change on global markets</a></h3>
+                        <a href="blog-details.php" class="th-btn pill style3">Read More</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="swiper-slide">
+                  <div class="blog-card">
+                     <div class="blog-img">
+                        <a href="blog-details.php"><img src="assets/img/blog/blog_1_4.jpg" alt="Image"></a>
+                        <div class="date"><a href="blog.php">26 Feb</a></div>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-meta"><a href="blog.php"><i class="fa-solid fa-user"></i> Elena</a> <a href="blog.php"><i class="fa-solid fa-comments"></i> 5 Comments</a></div>
+                        <h3 class="box-title"><a href="blog-details.php">The future of city living and its influence on of the in design</a></h3>
+                        <a href="blog-details.php" class="th-btn pill style3">Read More</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="swiper-slide">
+                  <div class="blog-card">
+                     <div class="blog-img">
+                        <a href="blog-details.php"><img src="assets/img/blog/blog_1_5.jpg" alt="Image"></a>
+                        <div class="date"><a href="blog.php">27 Feb</a></div>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-meta"><a href="blog.php"><i class="fa-solid fa-user"></i> Sam</a> <a href="blog.php"><i class="fa-solid fa-comments"></i> No Comments</a></div>
+                        <h3 class="box-title"><a href="blog-details.php">Exploring innovative architecture trends and their impact</a></h3>
+                        <a href="blog-details.php" class="th-btn pill style3">Read More</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="swiper-slide">
+                  <div class="blog-card">
+                     <div class="blog-img">
+                        <a href="blog-details.php"><img src="assets/img/blog/blog_1_6.jpg" alt="Image"></a>
+                        <div class="date"><a href="blog.php">16 Mar</a></div>
+                     </div>
+                     <div class="blog-content">
+                        <div class="blog-meta"><a href="blog.php"><i class="fa-solid fa-user"></i> David</a> <a href="blog.php"><i class="fa-solid fa-comments"></i> 8 Comments</a></div>
+                        <h3 class="box-title"><a href="blog-details.php">Breaking down latest tech trends and investment opportunity</a></h3>
+                        <a href="blog-details.php" class="th-btn pill style3">Read More</a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <button data-slider-prev="#blogSlider1" class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button data-slider-next="#blogSlider1" class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button>
+      </div>
+   </div>
+</section>
+<?php include('partials/footer.php'); ?>

@@ -3,7 +3,7 @@
          <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
          <div class="widget">
             <div class="th-widget-about">
-               <div class="about-logo"><a href="/"><img style="height: 70px" src="./assets/logo.jpg" alt="Ambr Logo"></a></div>
+               <div class="about-logo"><a href="/"><img style="height: 70px" src="./assets/logo.png" alt="Ambr Logo"></a></div>
                <p class="about-text mb-4">Ambr is a luxury to the resilience, adaptability, Spacious modern villa living room with centrally placed swimming pool blending indooroutdoor.</p>
                <p class="footer-info"><i class="fas fa-phone"></i> <a href="tel:+00(123)456789012" class="info-box_link">+00 (123) 456 789 012</a></p>
                <p class="footer-info"><i class="fas fa-envelope"></i> <a href="mailto:infomail123@domain.com" class="info-box_link">infomail123@domain.com</a></p>

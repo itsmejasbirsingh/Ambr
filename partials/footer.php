@@ -5,7 +5,7 @@
                <div class="footer-all-widget-item">
                   <div class="widget footer-widget">
                      <div class="th-widget-about">
-                        <div class="about-logo"><a href="index.php"><img src="assets/img/logo-white.svg" alt="Piller-html"></a></div>
+                        <div class="about-logo"><a href="javascript:;"><img style="height: 150px" src="assets/logo-nobg.png" alt="Ambr-html"></a></div>
                         <p class="about-text">Ambr is a luxury to the resilience, adaptability, Spacious modern villa living room with centrally placed swimming pool blending indooroutdoor.</p>
                         <div class="footer-info-wrap">
                            <div class="footer-info">
@@ -72,7 +72,7 @@
                         <div class="footer-item">
                            <div class="widget widget_banner footer-widget">
                               <h3 class="widget_title">Ambr Location</h3>
-                              <div class="widget-map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.7310056272386!2d89.2286059153658!3d24.00527418490799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fe9b97badc6151%3A0x30b048c9fb2129bc!2sAngfuztheme!5e0!3m2!1sen!2sbd!4v1658812932163!5m2!1sen!2sbd"></iframe></div>
+                              <div class="widget-map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.516881777567!2d77.43813427528715!3d28.584266675691133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cefb2ac047e29%3A0xe6931480c4a3c5d!2sGreater%20Noida%20W%20Rd%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1754540360002!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
                            </div>
                         </div>
                      </div>
@@ -110,7 +110,7 @@
          <div class="container">
             <div class="row gy-3 justify-content-lg-between justify-content-center align-items-center">
                <div class="col-lg-7">
-                  <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2025 <a href="">Ambr</a>. All Rights Reserved.</p>
+                  <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2025 <a href="javascript:;">AMBR</a>. All Rights Reserved.</p>
                </div>
                <div class="col-auto">
                   <div class="footer-default-copy-right">
@@ -133,6 +133,6 @@
    <script src="assets/js/nice-select.min.js"></script>
    <script src="assets/js/main.js"></script>
 </body>
-<!-- Mirrored from html.themeholy.com/piller/demo/home-2.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Jul 2025 06:49:02 GMT -->
+<!-- Mirrored from html.themeholy.com/Ambr/demo/home-2.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Jul 2025 06:49:02 GMT -->
 
 </html>
