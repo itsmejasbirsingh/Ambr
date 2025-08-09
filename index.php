@@ -18,20 +18,17 @@
                <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Ambrosia Luxury Homes!</a></div>
                <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Garden Galleria</a></div>
             </div>
-            <!-- <div class="marquee-group">
-               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
-               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
-               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Pet-friendly Rental Houses</a></div>
-               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Deluxe Cottage - Explore Now!</a></div>
-               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Luxury Home Available - Explore Now!</a></div>
-            </div> -->
+            <div class="marquee-group">
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Vihaan Villa</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Ambrosia Luxury Homes!</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Garden Galleria</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Vihaan Villa</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Ambrosia Luxury Homes!</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Garden Galleria</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Vihaan Villa</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Ambrosia Luxury Homes!</a></div>
+               <div class="text"><a href="./"><img src="assets/img/icon/marquee-icon-1-1.svg" alt="img">Garden Galleria</a></div>
+            </div>
          </div>
       </div>
    </div>
@@ -370,10 +367,10 @@
                      </div>
                      <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
                   </div>
-                  <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
-                  <div class="actions-style-2-wrapper">
+                  <div class="actions"><a href="#" class="icon-btn"><i class="fas fa-heart"></i></a></div>
+                 <!--  <div class="actions-style-2-wrapper">
                      <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
-                  </div>
+                  </div> -->
                   <div class="popular-badge">
                      <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
                      <p>For Sale</p>
@@ -420,10 +417,10 @@
                      </div>
                      <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
                   </div>
-                  <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
-                  <div class="actions-style-2-wrapper">
+                  <div class="actions"><a href="#" class="icon-btn"><i class="fas fa-heart"></i></a></div>
+                 <!--  <div class="actions-style-2-wrapper">
                      <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
-                  </div>
+                  </div> -->
                   <div class="popular-badge">
                      <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
                      <p>For Sale</p>
@@ -470,10 +467,10 @@
                      </div>
                      <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
                   </div>
-                  <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
-                  <div class="actions-style-2-wrapper">
+                  <div class="actions"><a href="#" class="icon-btn"><i class="fas fa-heart"></i></a></div>
+                 <!--  <div class="actions-style-2-wrapper">
                      <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
-                  </div>
+                  </div> -->
                   <div class="popular-badge">
                      <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
                      <p>For Sale</p>
@@ -520,10 +517,10 @@
                      </div>
                      <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
                   </div>
-                  <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
-                  <div class="actions-style-2-wrapper">
+                  <div class="actions"><a href="#" class="icon-btn"><i class="fas fa-heart"></i></a></div>
+                 <!--  <div class="actions-style-2-wrapper">
                      <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
-                  </div>
+                  </div> -->
                   <div class="popular-badge">
                      <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
                      <p>For Sale</p>
@@ -570,10 +567,10 @@
                      </div>
                      <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
                   </div>
-                  <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
-                  <div class="actions-style-2-wrapper">
+                  <div class="actions"><a href="#" class="icon-btn"><i class="fas fa-heart"></i></a></div>
+                 <!--  <div class="actions-style-2-wrapper">
                      <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
-                  </div>
+                  </div> -->
                   <div class="popular-badge">
                      <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
                      <p>For Sale</p>
@@ -620,10 +617,10 @@
                      </div>
                      <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
                   </div>
-                  <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
-                  <div class="actions-style-2-wrapper">
+                  <div class="actions"><a href="#" class="icon-btn"><i class="fas fa-heart"></i></a></div>
+                 <!--  <div class="actions-style-2-wrapper">
                      <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
-                  </div>
+                  </div> -->
                   <div class="popular-badge">
                      <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
                      <p>For Sale</p>
@@ -670,10 +667,10 @@
                      </div>
                      <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
                   </div>
-                  <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
-                  <div class="actions-style-2-wrapper">
+                  <div class="actions"><a href="#" class="icon-btn"><i class="fas fa-heart"></i></a></div>
+                 <!--  <div class="actions-style-2-wrapper">
                      <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
-                  </div>
+                  </div> -->
                   <div class="popular-badge">
                      <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
                      <p>For Sale</p>
@@ -720,10 +717,10 @@
                      </div>
                      <div class="icon-wrap"><button class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button> <button class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button></div>
                   </div>
-                  <div class="actions"><a href="wishlist.php" class="icon-btn"><i class="fas fa-heart"></i></a></div>
-                  <div class="actions-style-2-wrapper">
+                  <div class="actions"><a href="#" class="icon-btn"><i class="fas fa-heart"></i></a></div>
+                 <!--  <div class="actions-style-2-wrapper">
                      <div class="actions style-2"><a href="#" class="icon-btn"><span class="action-text">Add To Favorite</span> <i class="fa-solid fa-bookmark"></i> </a><a href="assets/img/popular/popular-1-1.jpg" class="icon-btn popular-popup-image"><span class="action-text">View all img</span> <i class="fa-solid fa-camera"></i></a></div>
-                  </div>
+                  </div> -->
                   <div class="popular-badge">
                      <img src="assets/img/icon/sell_rent_icon.svg" alt="icon">
                      <p>For Sale</p>
@@ -912,7 +909,7 @@
       </div>
    </div>
 </div> -->
-<section class="property-values-sec-2 space overflow-hidden">
+<section class="property-values-sec-2 overflow-hidden">
    <div class="container">
       <div class="row justify-content-center">
          <div class="col-xl-7">
@@ -972,6 +969,322 @@
             </div>
          </div>
       </div>
+   </div>
+</section>
+<section class="property-values-sec-2 space overflow-hidden">
+   <div class="container">
+      <div class="row justify-content-center">
+         <div class="col-xl-7">
+            <div class="title-area text-center">
+               <p class="sub-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span> Properties Values</p>
+               <h2 class="sec-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">Newly Added Properties</h2>
+            </div>
+         </div>
+      </div>
+      <div class="container">
+            <div class="row gx-60">
+                <div class="col-xxl-12 col-lg-7">
+                    <div class="row gy-30 justify-content-center">
+                        <div class="col-xl-6 col-lg-12 col-md-6 fadeinup wow">
+                            <div class="agencies-card">
+                                <div class="agencies-img"><a href="property-details.php"><img src="assets/img/agencies/agencies_1_1.jpg" alt="Image"></a></div>
+                                <div class="agencies-content">
+                                    <div class="brand-icon"><img src="assets/img/icon/agencies-icon1-1.svg" alt="img"></div>
+                                    <h3 class="box-title"><a href="property-details.php">Luxury Home</a></h3>
+                                    <div class="box-text">
+                                        <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>39581 Rohan Estates, New York
+                                    </div>
+                                    <ul class="agencies-list">
+                                        <li>
+                                            <p>Listing:</p>
+                                            <p>125</p>
+                                        </li>
+                                        <li>
+                                            <p>Hotline:</p>
+                                            <p><a href="tel:+0023456789">+(00) 23456 789</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Phone:</p>
+                                            <p><a href="tel:+0023456789">+(00) 23456 789</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Email:</p>
+                                            <p><a href="mailto:informail12@gmail.com">informail12@gmail.com</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Category:</p>
+                                            <p>Apartment</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="agencies-bottom">
+                                    <div class="th-social"><a href="https://www.facebook.com/"><i class="fa-solid fa-envelope"></i></a> <a href="https://www.twitter.com/"><i class="fa-solid fa-globe"></i></a> <a href="https://www.linkedin.com/"><i class="fa-solid fa-phone-volume"></i></a></div><a href="property-details.php" class="th-btn style3 radius">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-12 col-md-6 fadeinup wow">
+                            <div class="agencies-card">
+                                <div class="agencies-img"><a href="property-details.php"><img src="assets/img/agencies/agencies_1_2.jpg" alt="Image"></a></div>
+                                <div class="agencies-content">
+                                    <div class="brand-icon"><img src="assets/img/icon/agencies-icon1-2.svg" alt="img"></div>
+                                    <h3 class="box-title"><a href="property-details.php">Luxury Aparment</a></h3>
+                                    <div class="box-text">
+                                        <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>39581 Rohan Estates, New York
+                                    </div>
+                                    <ul class="agencies-list">
+                                        <li>
+                                            <p>Listing:</p>
+                                            <p>125</p>
+                                        </li>
+                                        <li>
+                                            <p>Hotline:</p>
+                                            <p><a href="tel:+0023456789">+(00) 23456 789</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Phone:</p>
+                                            <p><a href="tel:+0023456789">+(00) 23456 789</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Email:</p>
+                                            <p><a href="mailto:informail12@gmail.com">informail12@gmail.com</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Category:</p>
+                                            <p>Apartment</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="agencies-bottom">
+                                    <div class="th-social"><a href="https://www.facebook.com/"><i class="fa-solid fa-envelope"></i></a> <a href="https://www.twitter.com/"><i class="fa-solid fa-globe"></i></a> <a href="https://www.linkedin.com/"><i class="fa-solid fa-phone-volume"></i></a></div><a href="property-details.php" class="th-btn style3 radius">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-12 col-md-6 fadeinup wow">
+                            <div class="agencies-card">
+                                <div class="agencies-img"><a href="property-details.php"><img src="assets/img/agencies/agencies_1_3.jpg" alt="Image"></a></div>
+                                <div class="agencies-content">
+                                    <div class="brand-icon"><img src="assets/img/icon/agencies-icon1-3.svg" alt="img"></div>
+                                    <h3 class="box-title"><a href="property-details.php">Luxury Home</a></h3>
+                                    <div class="box-text">
+                                        <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>39581 Rohan Estates, New York
+                                    </div>
+                                    <ul class="agencies-list">
+                                        <li>
+                                            <p>Listing:</p>
+                                            <p>125</p>
+                                        </li>
+                                        <li>
+                                            <p>Hotline:</p>
+                                            <p><a href="tel:+0023456789">+(00) 23456 789</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Phone:</p>
+                                            <p><a href="tel:+0023456789">+(00) 23456 789</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Email:</p>
+                                            <p><a href="mailto:informail12@gmail.com">informail12@gmail.com</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Category:</p>
+                                            <p>Apartment</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="agencies-bottom">
+                                    <div class="th-social"><a href="https://www.facebook.com/"><i class="fa-solid fa-envelope"></i></a> <a href="https://www.twitter.com/"><i class="fa-solid fa-globe"></i></a> <a href="https://www.linkedin.com/"><i class="fa-solid fa-phone-volume"></i></a></div><a href="property-details.php" class="th-btn style3 radius">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-12 col-md-6 fadeinup wow">
+                            <div class="agencies-card">
+                                <div class="agencies-img"><a href="property-details.php"><img src="assets/img/agencies/agencies_1_4.jpg" alt="Image"></a></div>
+                                <div class="agencies-content">
+                                    <div class="brand-icon"><img src="assets/img/icon/agencies-icon1-4.svg" alt="img"></div>
+                                    <h3 class="box-title"><a href="property-details.php">Luxury Home</a></h3>
+                                    <div class="box-text">
+                                        <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>39581 Rohan Estates, New York
+                                    </div>
+                                    <ul class="agencies-list">
+                                        <li>
+                                            <p>Listing:</p>
+                                            <p>125</p>
+                                        </li>
+                                        <li>
+                                            <p>Hotline:</p>
+                                            <p><a href="tel:+0023456789">+(00) 23456 789</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Phone:</p>
+                                            <p><a href="tel:+0023456789">+(00) 23456 789</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Email:</p>
+                                            <p><a href="mailto:informail12@gmail.com">informail12@gmail.com</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Category:</p>
+                                            <p>Apartment</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="agencies-bottom">
+                                    <div class="th-social"><a href="https://www.facebook.com/"><i class="fa-solid fa-envelope"></i></a> <a href="https://www.twitter.com/"><i class="fa-solid fa-globe"></i></a> <a href="https://www.linkedin.com/"><i class="fa-solid fa-phone-volume"></i></a></div><a href="property-details.php" class="th-btn style3 radius">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-12 col-md-6 fadeinup wow">
+                            <div class="agencies-card">
+                                <div class="agencies-img"><a href="property-details.php"><img src="assets/img/agencies/agencies_1_5.jpg" alt="Image"></a></div>
+                                <div class="agencies-content">
+                                    <div class="brand-icon"><img src="assets/img/icon/agencies-icon1-5.svg" alt="img"></div>
+                                    <h3 class="box-title"><a href="property-details.php">Elegant Home</a></h3>
+                                    <div class="box-text">
+                                        <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>39581 Rohan Estates, New York
+                                    </div>
+                                    <ul class="agencies-list">
+                                        <li>
+                                            <p>Listing:</p>
+                                            <p>125</p>
+                                        </li>
+                                        <li>
+                                            <p>Hotline:</p>
+                                            <p><a href="tel:+0023456789">+(00) 23456 789</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Phone:</p>
+                                            <p><a href="tel:+0023456789">+(00) 23456 789</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Email:</p>
+                                            <p><a href="mailto:informail12@gmail.com">informail12@gmail.com</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Category:</p>
+                                            <p>Apartment</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="agencies-bottom">
+                                    <div class="th-social"><a href="https://www.facebook.com/"><i class="fa-solid fa-envelope"></i></a> <a href="https://www.twitter.com/"><i class="fa-solid fa-globe"></i></a> <a href="https://www.linkedin.com/"><i class="fa-solid fa-phone-volume"></i></a></div><a href="property-details.php" class="th-btn style3 radius">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-12 col-md-6 fadeinup wow">
+                            <div class="agencies-card">
+                                <div class="agencies-img"><a href="property-details.php"><img src="assets/img/agencies/agencies_1_6.jpg" alt="Image"></a></div>
+                                <div class="agencies-content">
+                                    <div class="brand-icon"><img src="assets/img/icon/agencies-icon1-6.svg" alt="img"></div>
+                                    <h3 class="box-title"><a href="property-details.php">Building</a></h3>
+                                    <div class="box-text">
+                                        <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>39581 Rohan Estates, New York
+                                    </div>
+                                    <ul class="agencies-list">
+                                        <li>
+                                            <p>Listing:</p>
+                                            <p>125</p>
+                                        </li>
+                                        <li>
+                                            <p>Hotline:</p>
+                                            <p><a href="tel:+0023456789">+(00) 23456 789</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Phone:</p>
+                                            <p><a href="tel:+0023456789">+(00) 23456 789</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Email:</p>
+                                            <p><a href="mailto:informail12@gmail.com">informail12@gmail.com</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Category:</p>
+                                            <p>Apartment</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="agencies-bottom">
+                                    <div class="th-social"><a href="https://www.facebook.com/"><i class="fa-solid fa-envelope"></i></a> <a href="https://www.twitter.com/"><i class="fa-solid fa-globe"></i></a> <a href="https://www.linkedin.com/"><i class="fa-solid fa-phone-volume"></i></a></div><a href="property-details.php" class="th-btn style3 radius">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-12 col-md-6 fadeinup wow">
+                            <div class="agencies-card">
+                                <div class="agencies-img"><a href="property-details.php"><img src="assets/img/agencies/agencies_1_7.jpg" alt="Image"></a></div>
+                                <div class="agencies-content">
+                                    <div class="brand-icon"><img src="assets/img/icon/agencies-icon1-7.svg" alt="img"></div>
+                                    <h3 class="box-title"><a href="property-details.php">Cottage Home</a></h3>
+                                    <div class="box-text">
+                                        <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>39581 Rohan Estates, New York
+                                    </div>
+                                    <ul class="agencies-list">
+                                        <li>
+                                            <p>Listing:</p>
+                                            <p>125</p>
+                                        </li>
+                                        <li>
+                                            <p>Hotline:</p>
+                                            <p><a href="tel:+0023456789">+(00) 23456 789</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Phone:</p>
+                                            <p><a href="tel:+0023456789">+(00) 23456 789</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Email:</p>
+                                            <p><a href="mailto:informail12@gmail.com">informail12@gmail.com</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Category:</p>
+                                            <p>Apartment</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="agencies-bottom">
+                                    <div class="th-social"><a href="https://www.facebook.com/"><i class="fa-solid fa-envelope"></i></a> <a href="https://www.twitter.com/"><i class="fa-solid fa-globe"></i></a> <a href="https://www.linkedin.com/"><i class="fa-solid fa-phone-volume"></i></a></div><a href="property-details.php" class="th-btn style3 radius">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-12 col-md-6 fadeinup wow">
+                            <div class="agencies-card">
+                                <div class="agencies-img"><a href="property-details.php"><img src="assets/img/agencies/agencies_1_8.jpg" alt="Image"></a></div>
+                                <div class="agencies-content">
+                                    <div class="brand-icon"><img src="assets/img/icon/agencies-icon1-8.svg" alt="img"></div>
+                                    <h3 class="box-title"><a href="property-details.php">Luxury Villa</a></h3>
+                                    <div class="box-text">
+                                        <div class="icon"><img src="assets/img/icon/popular-location.svg" alt="icon"></div>39581 Rohan Estates, New York
+                                    </div>
+                                    <ul class="agencies-list">
+                                        <li>
+                                            <p>Listing:</p>
+                                            <p>125</p>
+                                        </li>
+                                        <li>
+                                            <p>Hotline:</p>
+                                            <p><a href="tel:+0023456789">+(00) 23456 789</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Phone:</p>
+                                            <p><a href="tel:+0023456789">+(00) 23456 789</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Email:</p>
+                                            <p><a href="mailto:informail12@gmail.com">informail12@gmail.com</a></p>
+                                        </li>
+                                        <li>
+                                            <p>Category:</p>
+                                            <p>Apartment</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="agencies-bottom">
+                                    <div class="th-social"><a href="https://www.facebook.com/"><i class="fa-solid fa-envelope"></i></a> <a href="https://www.twitter.com/"><i class="fa-solid fa-globe"></i></a> <a href="https://www.linkedin.com/"><i class="fa-solid fa-phone-volume"></i></a></div><a href="property-details.php" class="th-btn style3 radius">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
    </div>
 </section>
 <!-- <section class="team-area-1 space-bottom overflow-hidden">
@@ -1447,66 +1760,9 @@
          </div>
       </div>
    </section> -->
-<div class="space bg-smoke">
-   <div class="shape-mockup" style="bottom: 0; left: 0%;"><img src="assets/img/shape/faq-2-shape.png" alt="img"></div>
-   <div class="shape-mockup spin d-none d-lg-block" style="bottom: 11%; left: 7%;"><img src="assets/img/shape/faq-2-circle-shape.png" alt="img"></div>
-   <div class="container">
-      <div class="row justify-content-between gy-4">
-         <div class="col-lg-5 col-xl-5 col-xxl-4">
-            <div class="title-area text-left pe-xxl-5">
-               <p class="sub-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s"><span class="double-line"></span>FAQ</p>
-               <h2 class="sec-title fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.3s">What would you like to know about Ambr?</h2>
-               <p class="sec-text fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.5s">Ancilla cogo cognomen absorbeo coerceo apto. Ago vulgaris absens decor. Valetudo urbs sollers. Ter tricesimus currus aro vilis suadeo ulterius aveho.</p>
-               <a href="about.php" class="th-btn bg-black pill fadeinup wow" data-wow-duration="1.5s" data-wow-delay="0.1s">Free Consultation</a>
-            </div>
-         </div>
-         <div class="col-lg-7 col-xl-7 col-xxl-7">
-            <div class="accordion-1 accordion" id="faqAccordion">
-               <div class="accordion-card active">
-                  <div class="accordion-header" id="collapse-item-1"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1"><span class="serial-numb">1. </span>What is Ambr real estate?</button></div>
-                  <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
-                     <div class="accordion-body">
-                        <p class="faq-text">Most Islamic centers offer charity programs, counseling, and financial assistance for those in need. Non-Muslims are welcome to visit mosques. They should dress modestly and remove their shoes upon entering. You can attend community events, volunteer at the mosque, join study circles, or participate in outreach programs.</p>
-                     </div>
-                  </div>
-               </div>
-               <div class="accordion-card">
-                  <div class="accordion-header" id="collapse-item-2"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2"><span class="serial-numb">2. </span>How to work Ambr all services?</button></div>
-                  <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
-                     <div class="accordion-body">
-                        <p class="faq-text">Most Islamic centers offer charity programs, counseling, and financial assistance for those in need. Non-Muslims are welcome to visit mosques. They should dress modestly and remove their shoes upon entering. You can attend community events, volunteer at the mosque, join study circles, or participate in outreach programs.</p>
-                     </div>
-                  </div>
-               </div>
-               <div class="accordion-card">
-                  <div class="accordion-header" id="collapse-item-3"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"><span class="serial-numb">3. </span>What resources are available for interfaith dialogue?</button></div>
-                  <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
-                     <div class="accordion-body">
-                        <p class="faq-text">Most Islamic centers offer charity programs, counseling, and financial assistance for those in need. Non-Muslims are welcome to visit mosques. They should dress modestly and remove their shoes upon entering. You can attend community events, volunteer at the mosque, join study circles, or participate in outreach programs.</p>
-                     </div>
-                  </div>
-               </div>
-               <div class="accordion-card">
-                  <div class="accordion-header" id="collapse-item-4"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4"><span class="serial-numb">4. </span>What programs are available for developer?</button></div>
-                  <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
-                     <div class="accordion-body">
-                        <p class="faq-text">Most Islamic centers offer charity programs, counseling, and financial assistance for those in need. Non-Muslims are welcome to visit mosques. They should dress modestly and remove their shoes upon entering. You can attend community events, volunteer at the mosque, join study circles, or participate in outreach programs.</p>
-                     </div>
-                  </div>
-               </div>
-               <div class="accordion-card">
-                  <div class="accordion-header" id="collapse-item-5"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5"><span class="serial-numb">5. </span>How can I contribute to the local real estate?</button></div>
-                  <div id="collapse-5" class="accordion-collapse collapse" aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
-                     <div class="accordion-body">
-                        <p class="faq-text">Most Islamic centers offer charity programs, counseling, and financial assistance for those in need. Non-Muslims are welcome to visit mosques. They should dress modestly and remove their shoes upon entering. You can attend community events, volunteer at the mosque, join study circles, or participate in outreach programs.</p>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
+
+   <?php include('partials/faqs.php'); ?>
+
 <section class="space overflow-hidden" id="blog-sec">
    <div class="container">
       <div class="row justify-content-lg-between justify-content-center align-items-end">

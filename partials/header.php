@@ -1,3 +1,7 @@
+<?php require('utils/connections.php'); 
+require('utils/functions.php');
+
+?>
 <!doctype html>
 <html class="no-js home-2" lang="en">
 
@@ -149,9 +153,14 @@
                   <div class="header-links">
                      <ul>
                         <li>
-                           <div class="th-social"><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a> <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.whatsapp.com/"><i class="fab fa-whatsapp"></i></a></div>
+                           <div class="th-social">
+                              <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a> 
+                              <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a> 
+                              <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a> 
+                              <a href="https://www.whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
+                           </div>
                         </li>
-                        <li class="lang-wrapper">
+                        <!-- <li class="lang-wrapper">
                            <div class="lang-menu">
                               <div class="icon"><img src="assets/img/icon/english.png" alt="icon"></div>
                               <select class="form-select nice-select">
@@ -160,7 +169,7 @@
                                  <option>Hindi</option>
                               </select>
                            </div>
-                        </li>
+                        </li> -->
                      </ul>
                   </div>
                </div>

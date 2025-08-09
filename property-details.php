@@ -58,8 +58,8 @@
                         <div class="property-page-single">
                             <div class="page-content">
                                 <div class="property-meta-wrap mb-55 fadeinup wow">
-                                    <div class="property-meta"><a class="property-tag" href="blog.php">Featured</a> <a href="blog.php"><i class="fa-solid fa-calendar-days"></i> 05 Jun, 2024</a> <a href="blog.php"><i class="fa-solid fa-comments"></i> No Comments</a></div>
-                                    <div class="wishlist-icon"><a href="wishlist.php" class="icon-btn"><i class="fa-solid fa-heart"></i></a></div>
+                                    <div class="property-meta"><a class="property-tag" href="#">Featured</a> <a href="#"><i class="fa-solid fa-calendar-days"></i> 05 Jun, 2024</a> <a href="#"><i class="fa-solid fa-comments"></i> No Comments</a></div>
+                                    <div class="wishlist-icon"><a href="#" class="icon-btn"><i class="fa-solid fa-heart"></i></a></div>
                                 </div>
                                 <div class="page-title-wrap fadeinup wow">
                                     <h2 class="page-title mb-2">About This Property</h2>
